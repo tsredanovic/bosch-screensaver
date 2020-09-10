@@ -14,14 +14,14 @@ def stop_screensaver():
 
 
 def stop_screensaver_after_n():
-    sec_passed = 0
-    while sec_passed < N:
-        sleep(1)
+    started_at = datetime.now()
+    while True:
         if not screensaver_is_on():
-            return 'ACTION'
-        sec_passed += 1
-    stop_screensaver()
-    return 'TIMEOUT'
+            return 'EXTERNAL', (datetime.now() - started_at).total_seconds()
+        seconds_on = (datetime.now() - started_at).total_seconds()
+        if seconds_on > N:
+            stop_screensaver()
+            return 'TIMEOUT', (datetime.now() - started_at).total_seconds()
 
 
 def screensaver_is_on():
@@ -32,8 +32,16 @@ def screensaver_is_on():
 # Check screensaver every second
 # If the screensaver is off, do nothing
 # If the screensaver is on, turn it off after N second
+
 while True:
     if screensaver_is_on():
-        print('{} - Screensaver turned ON'.format(datetime.now()))
-        stopped_by = stop_screensaver_after_n()
-        print('{} - Screensaver turned OFF by {}'.format(datetime.now(), stopped_by))
+        print('{} - Screensaver ON'.format(datetime.now()))
+        stopped_by, seconds_on = stop_screensaver_after_n()
+        print('{} - Screensaver OFF by {}, was on for {} seconds'.format(datetime.now(), stopped_by, seconds_on))
+
+
+started_at = datetime.now()
+sleep(75)
+current_time = datetime.now()
+import pdb
+pdb.set_trace()
