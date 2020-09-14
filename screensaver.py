@@ -1,8 +1,11 @@
 import logging
+import os
 import subprocess
 from time import sleep
 from datetime import datetime
 
+# Init DISPLAY variable (this needs to be done because importing `pyautogui` failes when run as service)
+os.environ['DISPLAY'] = ':0'
 import pyautogui
 import cv2
 
@@ -59,6 +62,7 @@ logging.basicConfig(filename=LOG_FILE_PATH,level=logging.DEBUG)
 # If the screensaver is on, turn it off after N seconds or after cam sees a face
 logging.info('{} - Started'.format(datetime.now()))
 while True:
+    sleep(1)
     if screensaver_is_on():
         logging.info('{} - Screensaver ON'.format(datetime.now()))
         stopped_by, seconds_on = stop_screensaver_after_n_or_face()

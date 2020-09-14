@@ -1,0 +1,10 @@
+[Unit]
+Description=Screensaver monitor service
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/home/toni/Projects/bosch-screensaver/venv/bin/python /home/toni/Projects/bosch-screensaver/screensaver.py
+
+[Install]
+WantedBy=multi-user.target
