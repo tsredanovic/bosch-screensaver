@@ -15,3 +15,1358 @@ INFO:root:2020-09-14 12:22:17.404355 - Started
 INFO:root:2020-09-14 12:22:25.060547 - Started
 INFO:root:2020-09-14 12:23:28.106327 - Screensaver ON
 INFO:root:2020-09-14 12:23:42.238589 - Screensaver OFF by FACE, was on for 14.131588 seconds
+INFO:root:2020-09-14 12:45:25.201918 - Started
+INFO:root:2020-09-14 12:46:27.187566 - Screensaver ON
+INFO:root:2020-09-14 12:46:57.452335 - Screensaver OFF by TIMEOUT, was on for 30.26391 seconds
+INFO:root:2020-09-14 12:47:59.390001 - Screensaver ON
+INFO:root:2020-09-14 12:48:29.627984 - Screensaver OFF by TIMEOUT, was on for 30.237022 seconds
+INFO:root:2020-09-14 12:49:31.574413 - Screensaver ON
+INFO:root:2020-09-14 12:49:59.369302 - Screensaver OFF by FACE, was on for 27.793929 seconds
+INFO:root:2020-09-14 12:50:39.157235 - Started
+INFO:root:2020-09-14 12:51:43.108818 - Screensaver ON
+INFO:root:2020-09-14 12:51:45.461423 - Screensaver OFF by FACE, was on for 2.35174 seconds
+INFO:root:2020-09-14 12:53:07.438350 - Screensaver ON
+INFO:root:2020-09-14 12:53:16.983498 - Screensaver OFF by FACE, was on for 9.54429 seconds
+INFO:root:2020-09-14 12:54:18.941756 - Screensaver ON
+INFO:root:2020-09-14 12:54:20.820160 - Screensaver OFF by FACE, was on for 1.877593 seconds
+INFO:root:2020-09-14 12:55:22.773890 - Screensaver ON
+INFO:root:2020-09-14 12:55:28.476152 - Screensaver OFF by FACE, was on for 5.701265 seconds
+INFO:root:2020-09-14 12:56:30.439563 - Screensaver ON
+INFO:root:2020-09-14 12:57:00.714739 - Screensaver OFF by TIMEOUT, was on for 30.274252 seconds
+INFO:root:2020-09-14 12:58:02.647007 - Screensaver ON
+INFO:root:2020-09-14 12:58:32.918102 - Screensaver OFF by TIMEOUT, was on for 30.270077 seconds
+INFO:root:2020-09-14 12:59:34.878642 - Screensaver ON
+INFO:root:2020-09-14 13:00:05.117558 - Screensaver OFF by TIMEOUT, was on for 30.237926 seconds
+INFO:root:2020-09-14 13:01:07.098600 - Screensaver ON
+INFO:root:2020-09-14 13:01:17.453067 - Screensaver OFF by FACE, was on for 10.353427 seconds
+INFO:root:2020-09-14 13:02:24.384233 - Screensaver ON
+INFO:root:2020-09-14 13:02:54.621101 - Screensaver OFF by TIMEOUT, was on for 30.235889 seconds
+INFO:root:2020-09-14 13:03:56.617751 - Screensaver ON
+INFO:root:2020-09-14 13:04:26.859949 - Screensaver OFF by TIMEOUT, was on for 30.24121 seconds
+INFO:root:2020-09-14 13:05:28.819958 - Screensaver ON
+INFO:root:2020-09-14 13:05:59.087940 - Screensaver OFF by TIMEOUT, was on for 30.267017 seconds
+INFO:root:2020-09-14 13:07:01.059506 - Screensaver ON
+INFO:root:2020-09-14 13:07:31.295754 - Screensaver OFF by TIMEOUT, was on for 30.235579 seconds
+INFO:root:2020-09-14 13:08:33.296093 - Screensaver ON
+INFO:root:2020-09-14 13:09:03.536794 - Screensaver OFF by TIMEOUT, was on for 30.239965 seconds
+INFO:root:2020-09-14 13:10:05.508240 - Screensaver ON
+INFO:root:2020-09-14 13:10:35.781626 - Screensaver OFF by TIMEOUT, was on for 30.272461 seconds
+INFO:root:2020-09-14 13:11:37.762280 - Screensaver ON
+INFO:root:2020-09-14 13:12:08.036514 - Screensaver OFF by TIMEOUT, was on for 30.273304 seconds
+INFO:root:2020-09-14 13:13:09.989025 - Screensaver ON
+INFO:root:2020-09-14 13:13:40.265500 - Screensaver OFF by TIMEOUT, was on for 30.275824 seconds
+INFO:root:2020-09-14 13:14:42.228311 - Screensaver ON
+INFO:root:2020-09-14 13:15:12.464883 - Screensaver OFF by TIMEOUT, was on for 30.235528 seconds
+INFO:root:2020-09-14 13:16:14.442274 - Screensaver ON
+INFO:root:2020-09-14 13:16:44.720561 - Screensaver OFF by TIMEOUT, was on for 30.277176 seconds
+INFO:root:2020-09-14 13:17:46.693501 - Screensaver ON
+INFO:root:2020-09-14 13:18:16.970090 - Screensaver OFF by TIMEOUT, was on for 30.267685 seconds
+INFO:root:2020-09-14 13:19:18.960704 - Screensaver ON
+INFO:root:2020-09-14 13:19:49.227978 - Screensaver OFF by TIMEOUT, was on for 30.266264 seconds
+INFO:root:2020-09-14 13:20:51.240179 - Screensaver ON
+INFO:root:2020-09-14 13:21:21.514974 - Screensaver OFF by TIMEOUT, was on for 30.274144 seconds
+INFO:root:2020-09-14 13:22:23.497206 - Screensaver ON
+INFO:root:2020-09-14 13:22:53.739846 - Screensaver OFF by TIMEOUT, was on for 30.241696 seconds
+INFO:root:2020-09-14 13:23:55.729393 - Screensaver ON
+INFO:root:2020-09-14 13:24:25.969137 - Screensaver OFF by TIMEOUT, was on for 30.238781 seconds
+INFO:root:2020-09-14 13:25:27.964845 - Screensaver ON
+INFO:root:2020-09-14 13:25:58.238112 - Screensaver OFF by TIMEOUT, was on for 30.272276 seconds
+INFO:root:2020-09-14 13:35:07.349339 - Started
+INFO:root:2020-09-14 13:36:28.683866 - Screensaver ON
+INFO:root:2020-09-14 13:36:58.920543 - Screensaver OFF by TIMEOUT, was on for 30.236147 seconds
+INFO:root:2020-09-14 13:38:00.866935 - Screensaver ON
+INFO:root:2020-09-14 13:38:03.839957 - Screensaver OFF by FACE, was on for 2.972565 seconds
+INFO:root:2020-09-14 13:39:05.783597 - Screensaver ON
+INFO:root:2020-09-14 13:39:36.019549 - Screensaver OFF by TIMEOUT, was on for 30.234665 seconds
+INFO:root:2020-09-14 13:40:37.932991 - Screensaver ON
+INFO:root:2020-09-14 13:41:08.162208 - Screensaver OFF by TIMEOUT, was on for 30.228649 seconds
+INFO:root:2020-09-14 13:42:10.084787 - Screensaver ON
+INFO:root:2020-09-14 13:42:40.343800 - Screensaver OFF by TIMEOUT, was on for 30.258216 seconds
+INFO:root:2020-09-14 13:43:42.269972 - Screensaver ON
+INFO:root:2020-09-14 13:44:12.492715 - Screensaver OFF by TIMEOUT, was on for 30.222079 seconds
+INFO:root:2020-09-14 13:45:14.422294 - Screensaver ON
+INFO:root:2020-09-14 13:45:44.652586 - Screensaver OFF by TIMEOUT, was on for 30.229472 seconds
+INFO:root:2020-09-14 13:46:46.571164 - Screensaver ON
+INFO:root:2020-09-14 13:47:16.807941 - Screensaver OFF by TIMEOUT, was on for 30.235971 seconds
+INFO:root:2020-09-14 13:48:18.737606 - Screensaver ON
+INFO:root:2020-09-14 13:48:21.043668 - Screensaver OFF by FACE, was on for 2.305464 seconds
+INFO:root:2020-09-14 13:49:22.970458 - Screensaver ON
+INFO:root:2020-09-14 13:49:53.202452 - Screensaver OFF by TIMEOUT, was on for 30.231374 seconds
+INFO:root:2020-09-14 13:50:55.121928 - Screensaver ON
+INFO:root:2020-09-14 13:51:25.411041 - Screensaver OFF by TIMEOUT, was on for 30.288311 seconds
+INFO:root:2020-09-14 13:52:27.305930 - Screensaver ON
+INFO:root:2020-09-14 13:52:57.536756 - Screensaver OFF by TIMEOUT, was on for 30.230229 seconds
+INFO:root:2020-09-14 13:53:59.473407 - Screensaver ON
+INFO:root:2020-09-14 13:54:29.700738 - Screensaver OFF by TIMEOUT, was on for 30.226686 seconds
+INFO:root:2020-09-14 13:55:31.623914 - Screensaver ON
+INFO:root:2020-09-14 13:56:01.853236 - Screensaver OFF by TIMEOUT, was on for 30.22877 seconds
+INFO:root:2020-09-14 13:57:03.773804 - Screensaver ON
+INFO:root:2020-09-14 13:57:34.000602 - Screensaver OFF by TIMEOUT, was on for 30.226166 seconds
+INFO:root:2020-09-14 13:58:36.974132 - Screensaver ON
+INFO:root:2020-09-14 13:59:07.217025 - Screensaver OFF by TIMEOUT, was on for 30.242075 seconds
+INFO:root:2020-09-14 14:00:09.144569 - Screensaver ON
+INFO:root:2020-09-14 14:00:39.373962 - Screensaver OFF by TIMEOUT, was on for 30.228582 seconds
+INFO:root:2020-09-14 14:01:41.311752 - Screensaver ON
+INFO:root:2020-09-14 14:02:11.540552 - Screensaver OFF by TIMEOUT, was on for 30.228195 seconds
+INFO:root:2020-09-14 14:03:13.479187 - Screensaver ON
+INFO:root:2020-09-14 14:03:43.737329 - Screensaver OFF by TIMEOUT, was on for 30.257511 seconds
+INFO:root:2020-09-14 14:04:45.661831 - Screensaver ON
+INFO:root:2020-09-14 14:05:15.888065 - Screensaver OFF by TIMEOUT, was on for 30.225555 seconds
+INFO:root:2020-09-14 14:06:17.812870 - Screensaver ON
+INFO:root:2020-09-14 14:06:22.696332 - Screensaver OFF by FACE, was on for 4.882742 seconds
+INFO:root:2020-09-14 14:07:29.613239 - Screensaver ON
+INFO:root:2020-09-14 14:07:59.840541 - Screensaver OFF by TIMEOUT, was on for 30.226673 seconds
+INFO:root:2020-09-14 14:09:01.779503 - Screensaver ON
+INFO:root:2020-09-14 14:09:32.009938 - Screensaver OFF by TIMEOUT, was on for 30.229752 seconds
+INFO:root:2020-09-14 14:10:33.945344 - Screensaver ON
+INFO:root:2020-09-14 14:11:04.179997 - Screensaver OFF by TIMEOUT, was on for 30.234174 seconds
+INFO:root:2020-09-14 14:12:06.112792 - Screensaver ON
+INFO:root:2020-09-14 14:12:36.346837 - Screensaver OFF by TIMEOUT, was on for 30.233293 seconds
+INFO:root:2020-09-14 14:13:38.281574 - Screensaver ON
+INFO:root:2020-09-14 14:14:08.510575 - Screensaver OFF by TIMEOUT, was on for 30.228355 seconds
+INFO:root:2020-09-14 14:15:10.430594 - Screensaver ON
+INFO:root:2020-09-14 14:15:40.663301 - Screensaver OFF by TIMEOUT, was on for 30.232186 seconds
+INFO:root:2020-09-14 14:17:12.598157 - Screensaver ON
+INFO:root:2020-09-14 14:17:42.834093 - Screensaver OFF by TIMEOUT, was on for 30.234992 seconds
+INFO:root:2020-09-14 14:18:44.749256 - Screensaver ON
+INFO:root:2020-09-14 14:19:15.007408 - Screensaver OFF by TIMEOUT, was on for 30.257476 seconds
+INFO:root:2020-09-14 14:20:16.935063 - Screensaver ON
+INFO:root:2020-09-14 14:20:35.079343 - Screensaver OFF by FACE, was on for 18.143441 seconds
+INFO:root:2020-09-14 14:21:37.001218 - Screensaver ON
+INFO:root:2020-09-14 14:22:07.230289 - Screensaver OFF by TIMEOUT, was on for 30.228446 seconds
+INFO:root:2020-09-14 14:23:09.152380 - Screensaver ON
+INFO:root:2020-09-14 14:23:39.382526 - Screensaver OFF by TIMEOUT, was on for 30.229515 seconds
+INFO:root:2020-09-14 14:24:41.303301 - Screensaver ON
+INFO:root:2020-09-14 14:25:11.528753 - Screensaver OFF by TIMEOUT, was on for 30.224802 seconds
+INFO:root:2020-09-14 14:26:13.453944 - Screensaver ON
+INFO:root:2020-09-14 14:26:43.687304 - Screensaver OFF by TIMEOUT, was on for 30.232728 seconds
+INFO:root:2020-09-14 14:28:21.322812 - Screensaver ON
+INFO:root:2020-09-14 14:28:40.780876 - Screensaver OFF by FACE, was on for 19.457229 seconds
+INFO:root:2020-09-14 14:29:42.656066 - Screensaver ON
+INFO:root:2020-09-14 14:30:12.937405 - Screensaver OFF by TIMEOUT, was on for 30.280695 seconds
+INFO:root:2020-09-14 14:31:14.822932 - Screensaver ON
+INFO:root:2020-09-14 14:31:45.139127 - Screensaver OFF by TIMEOUT, was on for 30.315546 seconds
+INFO:root:2020-09-14 14:32:47.025183 - Screensaver ON
+INFO:root:2020-09-14 14:32:49.296288 - Screensaver OFF by FACE, was on for 2.270271 seconds
+INFO:root:2020-09-14 14:33:51.126127 - Screensaver ON
+INFO:root:2020-09-14 14:34:21.461637 - Screensaver OFF by TIMEOUT, was on for 30.334724 seconds
+INFO:root:2020-09-14 14:35:23.343865 - Screensaver ON
+INFO:root:2020-09-14 14:35:53.615745 - Screensaver OFF by TIMEOUT, was on for 30.271042 seconds
+INFO:root:2020-09-14 14:36:55.508558 - Screensaver ON
+INFO:root:2020-09-14 14:37:25.815239 - Screensaver OFF by TIMEOUT, was on for 30.306015 seconds
+INFO:root:2020-09-14 14:38:27.674419 - Screensaver ON
+INFO:root:2020-09-14 14:38:57.998737 - Screensaver OFF by TIMEOUT, was on for 30.323599 seconds
+INFO:root:2020-09-14 14:39:59.873866 - Screensaver ON
+INFO:root:2020-09-14 14:40:30.118170 - Screensaver OFF by TIMEOUT, was on for 30.243664 seconds
+INFO:root:2020-09-14 14:41:32.039931 - Screensaver ON
+INFO:root:2020-09-14 14:42:02.288136 - Screensaver OFF by TIMEOUT, was on for 30.24755 seconds
+INFO:root:2020-09-14 14:43:04.206905 - Screensaver ON
+INFO:root:2020-09-14 14:43:15.723447 - Screensaver OFF by EXTERNAL, was on for 11.515902 seconds
+INFO:root:2020-09-14 14:49:32.773233 - Screensaver ON
+INFO:root:2020-09-14 14:50:03.007069 - Screensaver OFF by TIMEOUT, was on for 30.233184 seconds
+INFO:root:2020-09-14 14:51:04.923365 - Screensaver ON
+INFO:root:2020-09-14 14:51:35.165837 - Screensaver OFF by TIMEOUT, was on for 30.24185 seconds
+INFO:root:2020-09-14 14:52:37.091730 - Screensaver ON
+INFO:root:2020-09-14 14:53:07.326156 - Screensaver OFF by TIMEOUT, was on for 30.233589 seconds
+INFO:root:2020-09-14 14:54:09.262441 - Screensaver ON
+INFO:root:2020-09-14 14:54:39.498465 - Screensaver OFF by TIMEOUT, was on for 30.23516 seconds
+INFO:root:2020-09-14 14:55:41.424787 - Screensaver ON
+INFO:root:2020-09-14 14:56:11.659190 - Screensaver OFF by TIMEOUT, was on for 30.233589 seconds
+INFO:root:2020-09-14 14:57:13.573476 - Screensaver ON
+INFO:root:2020-09-14 14:57:43.817939 - Screensaver OFF by TIMEOUT, was on for 30.243839 seconds
+INFO:root:2020-09-14 14:58:45.762841 - Screensaver ON
+INFO:root:2020-09-14 14:59:15.999776 - Screensaver OFF by TIMEOUT, was on for 30.235886 seconds
+INFO:root:2020-09-14 15:00:17.925788 - Screensaver ON
+INFO:root:2020-09-14 15:00:48.158370 - Screensaver OFF by TIMEOUT, was on for 30.231926 seconds
+INFO:root:2020-09-14 15:01:50.092675 - Screensaver ON
+INFO:root:2020-09-14 15:02:20.326935 - Screensaver OFF by TIMEOUT, was on for 30.233594 seconds
+INFO:root:2020-09-14 15:03:22.260464 - Screensaver ON
+INFO:root:2020-09-14 15:03:52.541996 - Screensaver OFF by TIMEOUT, was on for 30.280718 seconds
+INFO:root:2020-09-14 15:06:34.510336 - Screensaver ON
+INFO:root:2020-09-14 15:07:04.783490 - Screensaver OFF by TIMEOUT, was on for 30.2721 seconds
+INFO:root:2020-09-14 15:08:06.661015 - Screensaver ON
+INFO:root:2020-09-14 15:08:36.931517 - Screensaver OFF by TIMEOUT, was on for 30.269818 seconds
+INFO:root:2020-09-14 15:09:38.812946 - Screensaver ON
+INFO:root:2020-09-14 15:10:09.082896 - Screensaver OFF by TIMEOUT, was on for 30.269312 seconds
+INFO:root:2020-09-14 15:11:10.962095 - Screensaver ON
+INFO:root:2020-09-14 15:11:41.303439 - Screensaver OFF by TIMEOUT, was on for 30.333954 seconds
+INFO:root:2020-09-14 15:12:43.196085 - Screensaver ON
+INFO:root:2020-09-14 15:13:13.529207 - Screensaver OFF by TIMEOUT, was on for 30.332366 seconds
+INFO:root:2020-09-14 15:14:15.412468 - Screensaver ON
+INFO:root:2020-09-14 15:14:45.683934 - Screensaver OFF by TIMEOUT, was on for 30.270543 seconds
+INFO:root:2020-09-14 15:15:47.559949 - Screensaver ON
+INFO:root:2020-09-14 15:16:17.895035 - Screensaver OFF by TIMEOUT, was on for 30.334376 seconds
+INFO:root:2020-09-14 15:17:19.777318 - Screensaver ON
+INFO:root:2020-09-14 15:17:50.109796 - Screensaver OFF by TIMEOUT, was on for 30.331824 seconds
+INFO:root:2020-09-14 15:18:52.010280 - Screensaver ON
+INFO:root:2020-09-14 15:19:22.341766 - Screensaver OFF by TIMEOUT, was on for 30.330829 seconds
+INFO:root:2020-09-14 15:20:24.226055 - Screensaver ON
+INFO:root:2020-09-14 15:20:54.562516 - Screensaver OFF by TIMEOUT, was on for 30.335822 seconds
+INFO:root:2020-09-14 15:21:56.442695 - Screensaver ON
+INFO:root:2020-09-14 15:22:26.715325 - Screensaver OFF by TIMEOUT, was on for 30.271914 seconds
+INFO:root:2020-09-14 15:23:28.592141 - Screensaver ON
+INFO:root:2020-09-14 15:23:58.926823 - Screensaver OFF by TIMEOUT, was on for 30.333927 seconds
+INFO:root:2020-09-14 15:25:00.827342 - Screensaver ON
+INFO:root:2020-09-14 15:25:31.095980 - Screensaver OFF by TIMEOUT, was on for 30.267906 seconds
+INFO:root:2020-09-14 15:26:32.975195 - Screensaver ON
+INFO:root:2020-09-14 15:27:03.211073 - Screensaver OFF by TIMEOUT, was on for 30.235297 seconds
+INFO:root:2020-09-14 15:28:05.140984 - Screensaver ON
+INFO:root:2020-09-14 15:28:35.371120 - Screensaver OFF by TIMEOUT, was on for 30.229634 seconds
+INFO:root:2020-09-14 15:29:38.324184 - Screensaver ON
+INFO:root:2020-09-14 15:30:08.564524 - Screensaver OFF by TIMEOUT, was on for 30.239706 seconds
+INFO:root:2020-09-14 15:31:10.494608 - Screensaver ON
+INFO:root:2020-09-14 15:31:40.765190 - Screensaver OFF by TIMEOUT, was on for 30.269743 seconds
+INFO:root:2020-09-14 15:32:42.660763 - Screensaver ON
+INFO:root:2020-09-14 15:33:12.891634 - Screensaver OFF by TIMEOUT, was on for 30.230228 seconds
+INFO:root:2020-09-14 15:34:14.810718 - Screensaver ON
+INFO:root:2020-09-14 15:34:45.047709 - Screensaver OFF by TIMEOUT, was on for 30.236354 seconds
+INFO:root:2020-09-14 15:35:46.976822 - Screensaver ON
+INFO:root:2020-09-14 15:36:17.207134 - Screensaver OFF by TIMEOUT, was on for 30.229862 seconds
+INFO:root:2020-09-14 15:37:19.127340 - Screensaver ON
+INFO:root:2020-09-14 15:37:49.360194 - Screensaver OFF by TIMEOUT, was on for 30.23223 seconds
+INFO:root:2020-09-14 15:38:51.296708 - Screensaver ON
+INFO:root:2020-09-14 15:38:57.188320 - Screensaver OFF by FACE, was on for 5.890801 seconds
+INFO:root:2020-09-14 15:40:10.095640 - Screensaver ON
+INFO:root:2020-09-14 15:40:34.442318 - Screensaver OFF by FACE, was on for 24.345901 seconds
+INFO:root:2020-09-14 15:41:36.329109 - Screensaver ON
+INFO:root:2020-09-14 15:42:06.648421 - Screensaver OFF by TIMEOUT, was on for 30.318669 seconds
+INFO:root:2020-09-14 15:43:18.530563 - Screensaver ON
+INFO:root:2020-09-14 15:43:48.865176 - Screensaver OFF by TIMEOUT, was on for 30.334057 seconds
+INFO:root:2020-09-14 15:44:50.755664 - Screensaver ON
+INFO:root:2020-09-14 15:45:21.090608 - Screensaver OFF by TIMEOUT, was on for 30.334272 seconds
+INFO:root:2020-09-14 15:46:22.981355 - Screensaver ON
+INFO:root:2020-09-14 15:46:53.317981 - Screensaver OFF by TIMEOUT, was on for 30.336026 seconds
+INFO:root:2020-09-14 15:47:55.234333 - Screensaver ON
+INFO:root:2020-09-14 15:48:25.508577 - Screensaver OFF by TIMEOUT, was on for 30.273327 seconds
+INFO:root:2020-09-14 15:49:27.397216 - Screensaver ON
+INFO:root:2020-09-14 15:49:57.675807 - Screensaver OFF by TIMEOUT, was on for 30.271807 seconds
+INFO:root:2020-09-14 15:50:59.549727 - Screensaver ON
+INFO:root:2020-09-14 15:51:29.827451 - Screensaver OFF by TIMEOUT, was on for 30.276491 seconds
+INFO:root:2020-09-14 15:52:31.716470 - Screensaver ON
+INFO:root:2020-09-14 15:53:01.991512 - Screensaver OFF by TIMEOUT, was on for 30.274158 seconds
+INFO:root:2020-09-14 15:54:03.865309 - Screensaver ON
+INFO:root:2020-09-14 15:54:34.135191 - Screensaver OFF by TIMEOUT, was on for 30.26897 seconds
+INFO:root:2020-09-14 15:55:36.015147 - Screensaver ON
+INFO:root:2020-09-14 15:56:06.350863 - Screensaver OFF by TIMEOUT, was on for 30.335024 seconds
+INFO:root:2020-09-14 15:57:08.217170 - Screensaver ON
+INFO:root:2020-09-14 15:57:38.621185 - Screensaver OFF by TIMEOUT, was on for 30.402443 seconds
+INFO:root:2020-09-14 15:58:40.449386 - Screensaver ON
+INFO:root:2020-09-14 15:59:10.727458 - Screensaver OFF by TIMEOUT, was on for 30.27733 seconds
+INFO:root:2020-09-14 16:00:12.616723 - Screensaver ON
+INFO:root:2020-09-14 16:00:42.950890 - Screensaver OFF by TIMEOUT, was on for 30.33347 seconds
+INFO:root:2020-09-14 16:01:44.834122 - Screensaver ON
+INFO:root:2020-09-14 16:02:15.166469 - Screensaver OFF by TIMEOUT, was on for 30.331678 seconds
+INFO:root:2020-09-14 16:03:17.034398 - Screensaver ON
+INFO:root:2020-09-14 16:03:47.308184 - Screensaver OFF by TIMEOUT, was on for 30.273128 seconds
+INFO:root:2020-09-14 16:04:49.186220 - Screensaver ON
+INFO:root:2020-09-14 16:05:19.462460 - Screensaver OFF by TIMEOUT, was on for 30.275361 seconds
+INFO:root:2020-09-14 16:06:21.350822 - Screensaver ON
+INFO:root:2020-09-14 16:06:51.623074 - Screensaver OFF by TIMEOUT, was on for 30.271516 seconds
+INFO:root:2020-09-14 16:07:53.502517 - Screensaver ON
+INFO:root:2020-09-14 16:08:23.841283 - Screensaver OFF by TIMEOUT, was on for 30.338051 seconds
+INFO:root:2020-09-14 16:09:25.720767 - Screensaver ON
+INFO:root:2020-09-14 16:09:56.053865 - Screensaver OFF by TIMEOUT, was on for 30.332163 seconds
+INFO:root:2020-09-14 16:10:57.936407 - Screensaver ON
+INFO:root:2020-09-14 16:11:28.207380 - Screensaver OFF by TIMEOUT, was on for 30.270143 seconds
+INFO:root:2020-09-14 16:12:30.103420 - Screensaver ON
+INFO:root:2020-09-14 16:13:00.371205 - Screensaver OFF by TIMEOUT, was on for 30.267157 seconds
+INFO:root:2020-09-14 16:14:02.255278 - Screensaver ON
+INFO:root:2020-09-14 16:14:32.532650 - Screensaver OFF by TIMEOUT, was on for 30.276464 seconds
+INFO:root:2020-09-14 16:15:34.405788 - Screensaver ON
+INFO:root:2020-09-14 16:16:04.683636 - Screensaver OFF by TIMEOUT, was on for 30.276948 seconds
+INFO:root:2020-09-14 16:17:06.576161 - Screensaver ON
+INFO:root:2020-09-14 16:17:36.909719 - Screensaver OFF by TIMEOUT, was on for 30.332572 seconds
+INFO:root:2020-09-14 16:18:38.806297 - Screensaver ON
+INFO:root:2020-09-14 16:19:09.083336 - Screensaver OFF by TIMEOUT, was on for 30.276115 seconds
+INFO:root:2020-09-14 16:20:11.005009 - Screensaver ON
+INFO:root:2020-09-14 16:20:41.239288 - Screensaver OFF by TIMEOUT, was on for 30.233763 seconds
+INFO:root:2020-09-14 16:21:43.172267 - Screensaver ON
+INFO:root:2020-09-14 16:22:13.407719 - Screensaver OFF by TIMEOUT, was on for 30.234786 seconds
+INFO:root:2020-09-14 16:23:15.339950 - Screensaver ON
+INFO:root:2020-09-14 16:23:45.575808 - Screensaver OFF by TIMEOUT, was on for 30.235006 seconds
+INFO:root:2020-09-14 16:24:47.506171 - Screensaver ON
+INFO:root:2020-09-14 16:25:17.736276 - Screensaver OFF by TIMEOUT, was on for 30.229632 seconds
+INFO:root:2020-09-14 16:26:19.672548 - Screensaver ON
+INFO:root:2020-09-14 16:26:49.911385 - Screensaver OFF by TIMEOUT, was on for 30.238127 seconds
+INFO:root:2020-09-14 16:27:51.840867 - Screensaver ON
+INFO:root:2020-09-14 16:28:22.071505 - Screensaver OFF by TIMEOUT, was on for 30.229794 seconds
+INFO:root:2020-09-14 16:29:24.007157 - Screensaver ON
+INFO:root:2020-09-14 16:29:54.248751 - Screensaver OFF by TIMEOUT, was on for 30.240955 seconds
+INFO:root:2020-09-14 16:30:56.174769 - Screensaver ON
+INFO:root:2020-09-14 16:31:26.406561 - Screensaver OFF by TIMEOUT, was on for 30.231146 seconds
+INFO:root:2020-09-14 16:32:28.324602 - Screensaver ON
+INFO:root:2020-09-14 16:32:58.556152 - Screensaver OFF by TIMEOUT, was on for 30.231102 seconds
+INFO:root:2020-09-14 16:34:00.491234 - Screensaver ON
+INFO:root:2020-09-14 16:34:15.627955 - Screensaver OFF by FACE, was on for 15.136009 seconds
+INFO:root:2020-09-14 16:35:17.559007 - Screensaver ON
+INFO:root:2020-09-14 16:35:47.795005 - Screensaver OFF by TIMEOUT, was on for 30.235118 seconds
+INFO:root:2020-09-14 16:36:49.725781 - Screensaver ON
+INFO:root:2020-09-14 16:37:03.668883 - Screensaver OFF by FACE, was on for 13.94246 seconds
+INFO:root:2020-09-14 16:38:05.526559 - Screensaver ON
+INFO:root:2020-09-14 16:38:17.080680 - Screensaver OFF by FACE, was on for 11.553304 seconds
+INFO:root:2020-09-14 16:39:18.993006 - Screensaver ON
+INFO:root:2020-09-14 16:39:38.045009 - Screensaver OFF by FACE, was on for 19.051176 seconds
+INFO:root:2020-09-14 16:40:39.959514 - Screensaver ON
+INFO:root:2020-09-14 16:41:10.191113 - Screensaver OFF by TIMEOUT, was on for 30.230819 seconds
+INFO:root:2020-09-14 16:42:12.109566 - Screensaver ON
+INFO:root:2020-09-14 16:42:36.212148 - Screensaver OFF by FACE, was on for 24.101855 seconds
+INFO:root:2020-09-14 16:43:38.110934 - Screensaver ON
+INFO:root:2020-09-14 16:44:02.857339 - Screensaver OFF by FACE, was on for 24.745651 seconds
+INFO:root:2020-09-14 16:45:05.812607 - Screensaver ON
+INFO:root:2020-09-14 16:45:36.054852 - Screensaver OFF by TIMEOUT, was on for 30.241322 seconds
+INFO:root:2020-09-14 16:46:37.978349 - Screensaver ON
+INFO:root:2020-09-14 16:47:08.211388 - Screensaver OFF by TIMEOUT, was on for 30.232205 seconds
+INFO:root:2020-09-14 16:48:10.129106 - Screensaver ON
+INFO:root:2020-09-14 16:48:40.363393 - Screensaver OFF by TIMEOUT, was on for 30.233461 seconds
+INFO:root:2020-09-14 16:49:42.295676 - Screensaver ON
+INFO:root:2020-09-14 16:50:12.548584 - Screensaver OFF by TIMEOUT, was on for 30.252164 seconds
+INFO:root:2020-09-14 16:51:14.478665 - Screensaver ON
+INFO:root:2020-09-14 16:51:44.715102 - Screensaver OFF by TIMEOUT, was on for 30.235719 seconds
+INFO:root:2020-09-14 16:52:47.673830 - Screensaver ON
+INFO:root:2020-09-14 16:53:17.925075 - Screensaver OFF by TIMEOUT, was on for 30.250329 seconds
+INFO:root:2020-09-14 16:54:19.845151 - Screensaver ON
+INFO:root:2020-09-14 16:54:50.078985 - Screensaver OFF by TIMEOUT, was on for 30.233219 seconds
+INFO:root:2020-09-14 16:55:52.010258 - Screensaver ON
+INFO:root:2020-09-14 16:56:22.243827 - Screensaver OFF by TIMEOUT, was on for 30.232713 seconds
+INFO:root:2020-09-14 16:57:24.163742 - Screensaver ON
+INFO:root:2020-09-14 16:57:54.399972 - Screensaver OFF by TIMEOUT, was on for 30.235438 seconds
+INFO:root:2020-09-14 16:58:57.356233 - Screensaver ON
+INFO:root:2020-09-14 16:59:27.596722 - Screensaver OFF by TIMEOUT, was on for 30.239857 seconds
+INFO:root:2020-09-14 17:00:29.515377 - Screensaver ON
+INFO:root:2020-09-14 17:00:59.746998 - Screensaver OFF by TIMEOUT, was on for 30.230988 seconds
+INFO:root:2020-09-14 17:02:01.681641 - Screensaver ON
+INFO:root:2020-09-14 17:02:31.914415 - Screensaver OFF by TIMEOUT, was on for 30.232089 seconds
+INFO:root:2020-09-14 17:03:33.847494 - Screensaver ON
+INFO:root:2020-09-14 17:04:04.078652 - Screensaver OFF by TIMEOUT, was on for 30.230528 seconds
+INFO:root:2020-09-14 17:05:06.000085 - Screensaver ON
+INFO:root:2020-09-14 17:05:36.233047 - Screensaver OFF by TIMEOUT, was on for 30.232239 seconds
+INFO:root:2020-09-14 17:06:38.167027 - Screensaver ON
+INFO:root:2020-09-14 17:07:08.403180 - Screensaver OFF by TIMEOUT, was on for 30.235355 seconds
+INFO:root:2020-09-14 17:08:10.333769 - Screensaver ON
+INFO:root:2020-09-14 17:08:40.567302 - Screensaver OFF by TIMEOUT, was on for 30.232595 seconds
+INFO:root:2020-09-14 17:09:42.499450 - Screensaver ON
+INFO:root:2020-09-14 17:10:12.736676 - Screensaver OFF by TIMEOUT, was on for 30.236559 seconds
+INFO:root:2020-09-14 17:11:14.666175 - Screensaver ON
+INFO:root:2020-09-14 17:11:44.899337 - Screensaver OFF by TIMEOUT, was on for 30.232496 seconds
+INFO:root:2020-09-14 17:12:46.817800 - Screensaver ON
+INFO:root:2020-09-14 17:13:17.051309 - Screensaver OFF by TIMEOUT, was on for 30.232873 seconds
+INFO:root:2020-09-14 17:14:19.014965 - Screensaver ON
+INFO:root:2020-09-14 17:14:34.919334 - Screensaver OFF by FACE, was on for 15.903554 seconds
+INFO:root:2020-09-14 17:15:41.818093 - Screensaver ON
+INFO:root:2020-09-14 17:15:47.037486 - Screensaver OFF by FACE, was on for 5.218716 seconds
+INFO:root:2020-09-14 17:16:48.901202 - Screensaver ON
+INFO:root:2020-09-14 17:17:19.136782 - Screensaver OFF by TIMEOUT, was on for 30.234945 seconds
+INFO:root:2020-09-14 17:18:21.068531 - Screensaver ON
+INFO:root:2020-09-14 17:18:51.304005 - Screensaver OFF by TIMEOUT, was on for 30.234841 seconds
+INFO:root:2020-09-14 17:19:54.266306 - Screensaver ON
+INFO:root:2020-09-14 17:20:24.510115 - Screensaver OFF by TIMEOUT, was on for 30.242849 seconds
+INFO:root:2020-09-14 17:21:26.435332 - Screensaver ON
+INFO:root:2020-09-14 17:21:56.667755 - Screensaver OFF by TIMEOUT, was on for 30.231731 seconds
+INFO:root:2020-09-14 17:22:58.586048 - Screensaver ON
+INFO:root:2020-09-14 17:23:28.820725 - Screensaver OFF by TIMEOUT, was on for 30.233925 seconds
+INFO:root:2020-09-14 17:24:30.754305 - Screensaver ON
+INFO:root:2020-09-14 17:25:00.987389 - Screensaver OFF by TIMEOUT, was on for 30.232262 seconds
+INFO:root:2020-09-14 17:26:02.919823 - Screensaver ON
+INFO:root:2020-09-14 17:26:33.155926 - Screensaver OFF by TIMEOUT, was on for 30.235353 seconds
+INFO:root:2020-09-14 17:27:35.086429 - Screensaver ON
+INFO:root:2020-09-14 17:28:05.323627 - Screensaver OFF by TIMEOUT, was on for 30.236713 seconds
+INFO:root:2020-09-14 17:29:07.255712 - Screensaver ON
+INFO:root:2020-09-14 17:29:37.525374 - Screensaver OFF by TIMEOUT, was on for 30.268905 seconds
+INFO:root:2020-09-14 17:30:39.422454 - Screensaver ON
+INFO:root:2020-09-14 17:31:09.655822 - Screensaver OFF by TIMEOUT, was on for 30.232701 seconds
+INFO:root:2020-09-14 17:32:11.573473 - Screensaver ON
+INFO:root:2020-09-14 17:32:41.811666 - Screensaver OFF by TIMEOUT, was on for 30.237642 seconds
+INFO:root:2020-09-14 17:33:43.740475 - Screensaver ON
+INFO:root:2020-09-14 17:34:13.971207 - Screensaver OFF by TIMEOUT, was on for 30.229984 seconds
+INFO:root:2020-09-14 17:35:15.891296 - Screensaver ON
+INFO:root:2020-09-14 17:35:46.127792 - Screensaver OFF by TIMEOUT, was on for 30.23571 seconds
+INFO:root:2020-09-14 17:36:48.058582 - Screensaver ON
+INFO:root:2020-09-14 17:37:18.295469 - Screensaver OFF by TIMEOUT, was on for 30.236185 seconds
+INFO:root:2020-09-14 17:38:20.225684 - Screensaver ON
+INFO:root:2020-09-14 17:38:50.457044 - Screensaver OFF by TIMEOUT, was on for 30.230688 seconds
+INFO:root:2020-09-14 17:39:52.390251 - Screensaver ON
+INFO:root:2020-09-14 17:40:22.632428 - Screensaver OFF by TIMEOUT, was on for 30.239816 seconds
+INFO:root:2020-09-14 17:41:24.578117 - Screensaver ON
+INFO:root:2020-09-14 17:41:54.814631 - Screensaver OFF by TIMEOUT, was on for 30.235879 seconds
+INFO:root:2020-09-14 17:42:56.743206 - Screensaver ON
+INFO:root:2020-09-14 17:43:26.979539 - Screensaver OFF by TIMEOUT, was on for 30.235597 seconds
+INFO:root:2020-09-14 17:44:28.912336 - Screensaver ON
+INFO:root:2020-09-14 17:44:59.152719 - Screensaver OFF by TIMEOUT, was on for 30.239718 seconds
+INFO:root:2020-09-14 17:46:01.095982 - Screensaver ON
+INFO:root:2020-09-14 17:46:31.335734 - Screensaver OFF by TIMEOUT, was on for 30.239103 seconds
+INFO:root:2020-09-14 17:47:33.261186 - Screensaver ON
+INFO:root:2020-09-14 17:48:03.493051 - Screensaver OFF by TIMEOUT, was on for 30.231261 seconds
+INFO:root:2020-09-14 17:49:06.461917 - Screensaver ON
+INFO:root:2020-09-14 17:49:36.701174 - Screensaver OFF by TIMEOUT, was on for 30.238342 seconds
+INFO:root:2020-09-14 17:50:38.630995 - Screensaver ON
+INFO:root:2020-09-14 17:51:08.867476 - Screensaver OFF by TIMEOUT, was on for 30.235821 seconds
+INFO:root:2020-09-14 17:52:10.797708 - Screensaver ON
+INFO:root:2020-09-14 17:52:41.032861 - Screensaver OFF by TIMEOUT, was on for 30.234466 seconds
+INFO:root:2020-09-14 17:53:42.965325 - Screensaver ON
+INFO:root:2020-09-14 17:54:13.204989 - Screensaver OFF by TIMEOUT, was on for 30.238868 seconds
+INFO:root:2020-09-14 17:55:15.130522 - Screensaver ON
+INFO:root:2020-09-14 17:55:45.363729 - Screensaver OFF by TIMEOUT, was on for 30.232492 seconds
+INFO:root:2020-09-14 17:56:47.297503 - Screensaver ON
+INFO:root:2020-09-14 17:57:17.535859 - Screensaver OFF by TIMEOUT, was on for 30.237714 seconds
+INFO:root:2020-09-14 17:58:19.464629 - Screensaver ON
+INFO:root:2020-09-14 17:58:49.699648 - Screensaver OFF by TIMEOUT, was on for 30.234379 seconds
+INFO:root:2020-09-14 17:59:51.615689 - Screensaver ON
+INFO:root:2020-09-14 18:00:21.847799 - Screensaver OFF by TIMEOUT, was on for 30.231408 seconds
+INFO:root:2020-09-14 18:01:23.765762 - Screensaver ON
+INFO:root:2020-09-14 18:01:53.995311 - Screensaver OFF by TIMEOUT, was on for 30.228912 seconds
+INFO:root:2020-09-14 18:02:55.915957 - Screensaver ON
+INFO:root:2020-09-14 18:03:26.150833 - Screensaver OFF by TIMEOUT, was on for 30.234135 seconds
+INFO:root:2020-09-14 18:04:28.082917 - Screensaver ON
+INFO:root:2020-09-14 18:04:58.320281 - Screensaver OFF by TIMEOUT, was on for 30.236686 seconds
+INFO:root:2020-09-14 18:06:00.268499 - Screensaver ON
+INFO:root:2020-09-14 18:06:30.499442 - Screensaver OFF by TIMEOUT, was on for 30.230095 seconds
+INFO:root:2020-09-14 18:07:32.432785 - Screensaver ON
+INFO:root:2020-09-14 18:08:02.667096 - Screensaver OFF by TIMEOUT, was on for 30.233596 seconds
+INFO:root:2020-09-14 18:09:04.585104 - Screensaver ON
+INFO:root:2020-09-14 18:09:34.814990 - Screensaver OFF by TIMEOUT, was on for 30.229085 seconds
+INFO:root:2020-09-14 18:10:36.750772 - Screensaver ON
+INFO:root:2020-09-14 18:11:06.983549 - Screensaver OFF by TIMEOUT, was on for 30.232132 seconds
+INFO:root:2020-09-14 18:12:08.917218 - Screensaver ON
+INFO:root:2020-09-14 18:12:39.147411 - Screensaver OFF by TIMEOUT, was on for 30.229529 seconds
+INFO:root:2020-09-14 18:13:41.066601 - Screensaver ON
+INFO:root:2020-09-14 18:14:11.299813 - Screensaver OFF by TIMEOUT, was on for 30.2326 seconds
+INFO:root:2020-09-14 18:15:13.219240 - Screensaver ON
+INFO:root:2020-09-14 18:15:43.458939 - Screensaver OFF by TIMEOUT, was on for 30.238831 seconds
+INFO:root:2020-09-14 18:16:45.385405 - Screensaver ON
+INFO:root:2020-09-14 18:17:15.618076 - Screensaver OFF by TIMEOUT, was on for 30.231986 seconds
+INFO:root:2020-09-14 18:18:17.551856 - Screensaver ON
+INFO:root:2020-09-14 18:18:47.788186 - Screensaver OFF by TIMEOUT, was on for 30.235703 seconds
+INFO:root:2020-09-14 18:19:49.719515 - Screensaver ON
+INFO:root:2020-09-14 18:20:19.959216 - Screensaver OFF by TIMEOUT, was on for 30.239012 seconds
+INFO:root:2020-09-14 18:21:21.885089 - Screensaver ON
+INFO:root:2020-09-14 18:21:52.119534 - Screensaver OFF by TIMEOUT, was on for 30.233773 seconds
+INFO:root:2020-09-14 18:22:54.035724 - Screensaver ON
+INFO:root:2020-09-14 18:23:24.273136 - Screensaver OFF by TIMEOUT, was on for 30.236668 seconds
+INFO:root:2020-09-14 18:24:26.202736 - Screensaver ON
+INFO:root:2020-09-14 18:24:56.439968 - Screensaver OFF by TIMEOUT, was on for 30.236582 seconds
+INFO:root:2020-09-14 18:25:58.370732 - Screensaver ON
+INFO:root:2020-09-14 18:26:28.615698 - Screensaver OFF by TIMEOUT, was on for 30.243419 seconds
+INFO:root:2020-09-14 18:27:30.546836 - Screensaver ON
+INFO:root:2020-09-14 18:28:00.783327 - Screensaver OFF by TIMEOUT, was on for 30.23599 seconds
+INFO:root:2020-09-14 18:29:02.705359 - Screensaver ON
+INFO:root:2020-09-14 18:29:32.935131 - Screensaver OFF by TIMEOUT, was on for 30.228944 seconds
+INFO:root:2020-09-14 18:30:34.854466 - Screensaver ON
+INFO:root:2020-09-14 18:31:05.112426 - Screensaver OFF by TIMEOUT, was on for 30.257263 seconds
+INFO:root:2020-09-14 18:32:07.021894 - Screensaver ON
+INFO:root:2020-09-14 18:32:37.329906 - Screensaver OFF by TIMEOUT, was on for 30.303557 seconds
+INFO:root:2020-09-14 18:33:39.206524 - Screensaver ON
+INFO:root:2020-09-14 18:34:09.479538 - Screensaver OFF by TIMEOUT, was on for 30.272355 seconds
+INFO:root:2020-09-14 18:35:11.357349 - Screensaver ON
+INFO:root:2020-09-14 18:35:41.627320 - Screensaver OFF by TIMEOUT, was on for 30.269096 seconds
+INFO:root:2020-09-14 18:36:43.522067 - Screensaver ON
+INFO:root:2020-09-14 18:37:13.791023 - Screensaver OFF by TIMEOUT, was on for 30.268209 seconds
+INFO:root:2020-09-14 18:38:15.690302 - Screensaver ON
+INFO:root:2020-09-14 18:38:45.963484 - Screensaver OFF by TIMEOUT, was on for 30.272302 seconds
+INFO:root:2020-09-14 18:39:47.858827 - Screensaver ON
+INFO:root:2020-09-14 18:40:18.152049 - Screensaver OFF by TIMEOUT, was on for 30.292312 seconds
+INFO:root:2020-09-14 18:41:20.041248 - Screensaver ON
+INFO:root:2020-09-14 18:41:50.348064 - Screensaver OFF by TIMEOUT, was on for 30.305949 seconds
+INFO:root:2020-09-14 18:42:52.241801 - Screensaver ON
+INFO:root:2020-09-14 18:43:22.639842 - Screensaver OFF by TIMEOUT, was on for 30.388463 seconds
+INFO:root:2020-09-14 18:44:24.475289 - Screensaver ON
+INFO:root:2020-09-14 18:44:54.743483 - Screensaver OFF by TIMEOUT, was on for 30.267487 seconds
+INFO:root:2020-09-14 18:45:56.643090 - Screensaver ON
+INFO:root:2020-09-14 18:46:26.944207 - Screensaver OFF by TIMEOUT, was on for 30.300456 seconds
+INFO:root:2020-09-14 18:47:28.844445 - Screensaver ON
+INFO:root:2020-09-14 18:47:59.127552 - Screensaver OFF by TIMEOUT, was on for 30.282248 seconds
+INFO:root:2020-09-14 18:49:01.028312 - Screensaver ON
+INFO:root:2020-09-14 18:49:19.585210 - Screensaver OFF by FACE, was on for 18.556051 seconds
+INFO:root:2020-09-14 18:50:31.511889 - Screensaver ON
+INFO:root:2020-09-14 18:50:48.864533 - Screensaver OFF by FACE, was on for 17.351769 seconds
+INFO:root:2020-09-14 18:51:50.710925 - Screensaver ON
+INFO:root:2020-09-14 18:51:58.176021 - Screensaver OFF by FACE, was on for 7.464502 seconds
+INFO:root:2020-09-14 18:53:00.110962 - Screensaver ON
+INFO:root:2020-09-14 18:53:17.346578 - Screensaver OFF by FACE, was on for 17.234921 seconds
+INFO:root:2020-09-14 18:54:19.146326 - Screensaver ON
+INFO:root:2020-09-14 18:54:49.493185 - Screensaver OFF by TIMEOUT, was on for 30.346043 seconds
+INFO:root:2020-09-14 18:55:51.311468 - Screensaver ON
+INFO:root:2020-09-14 18:56:21.757646 - Screensaver OFF by TIMEOUT, was on for 30.44554 seconds
+INFO:root:2020-09-14 18:57:23.546908 - Screensaver ON
+INFO:root:2020-09-14 18:57:54.000667 - Screensaver OFF by TIMEOUT, was on for 30.453006 seconds
+INFO:root:2020-09-14 18:58:55.795778 - Screensaver ON
+INFO:root:2020-09-14 18:59:26.149761 - Screensaver OFF by TIMEOUT, was on for 30.345187 seconds
+INFO:root:2020-09-14 19:00:27.962391 - Screensaver ON
+INFO:root:2020-09-14 19:00:58.408993 - Screensaver OFF by TIMEOUT, was on for 30.446025 seconds
+INFO:root:2020-09-14 19:02:00.248392 - Screensaver ON
+INFO:root:2020-09-14 19:02:30.700997 - Screensaver OFF by TIMEOUT, was on for 30.451825 seconds
+INFO:root:2020-09-14 19:03:32.518942 - Screensaver ON
+INFO:root:2020-09-14 19:04:02.965349 - Screensaver OFF by TIMEOUT, was on for 30.445813 seconds
+INFO:root:2020-09-14 19:05:04.765360 - Screensaver ON
+INFO:root:2020-09-14 19:05:35.218989 - Screensaver OFF by TIMEOUT, was on for 30.45273 seconds
+INFO:root:2020-09-14 19:06:37.047980 - Screensaver ON
+INFO:root:2020-09-14 19:07:07.401097 - Screensaver OFF by TIMEOUT, was on for 30.352477 seconds
+INFO:root:2020-09-14 19:08:09.214597 - Screensaver ON
+INFO:root:2020-09-14 19:08:39.665463 - Screensaver OFF by TIMEOUT, was on for 30.450268 seconds
+INFO:root:2020-09-14 19:09:41.515367 - Screensaver ON
+INFO:root:2020-09-14 19:10:11.861497 - Screensaver OFF by TIMEOUT, was on for 30.345557 seconds
+INFO:root:2020-09-14 19:11:13.682137 - Screensaver ON
+INFO:root:2020-09-14 19:11:44.129315 - Screensaver OFF by TIMEOUT, was on for 30.446554 seconds
+INFO:root:2020-09-14 19:12:45.915250 - Screensaver ON
+INFO:root:2020-09-14 19:13:16.265646 - Screensaver OFF by TIMEOUT, was on for 30.349822 seconds
+INFO:root:2020-09-14 19:14:18.083139 - Screensaver ON
+INFO:root:2020-09-14 19:14:48.429788 - Screensaver OFF by TIMEOUT, was on for 30.34606 seconds
+INFO:root:2020-09-14 19:15:50.249459 - Screensaver ON
+INFO:root:2020-09-14 19:16:20.701944 - Screensaver OFF by TIMEOUT, was on for 30.451876 seconds
+INFO:root:2020-09-14 19:17:23.546307 - Screensaver ON
+INFO:root:2020-09-14 19:17:54.004510 - Screensaver OFF by TIMEOUT, was on for 30.45727 seconds
+INFO:root:2020-09-14 19:18:55.800608 - Screensaver ON
+INFO:root:2020-09-14 19:19:26.249661 - Screensaver OFF by TIMEOUT, was on for 30.448432 seconds
+INFO:root:2020-09-14 19:20:28.067863 - Screensaver ON
+INFO:root:2020-09-14 19:20:58.413646 - Screensaver OFF by TIMEOUT, was on for 30.345188 seconds
+INFO:root:2020-09-14 19:22:00.254208 - Screensaver ON
+INFO:root:2020-09-14 19:22:30.605883 - Screensaver OFF by TIMEOUT, was on for 30.350809 seconds
+INFO:root:2020-09-14 19:23:32.418834 - Screensaver ON
+INFO:root:2020-09-14 19:24:02.865660 - Screensaver OFF by TIMEOUT, was on for 30.446102 seconds
+INFO:root:2020-09-14 19:25:04.671020 - Screensaver ON
+INFO:root:2020-09-14 19:25:35.116893 - Screensaver OFF by TIMEOUT, was on for 30.445072 seconds
+INFO:root:2020-09-14 19:26:36.953270 - Screensaver ON
+INFO:root:2020-09-14 19:27:07.398166 - Screensaver OFF by TIMEOUT, was on for 30.444137 seconds
+INFO:root:2020-09-14 19:28:09.222013 - Screensaver ON
+INFO:root:2020-09-14 19:28:39.569228 - Screensaver OFF by TIMEOUT, was on for 30.346399 seconds
+INFO:root:2020-09-14 19:29:41.386302 - Screensaver ON
+INFO:root:2020-09-14 19:30:11.730175 - Screensaver OFF by TIMEOUT, was on for 30.34331 seconds
+INFO:root:2020-09-14 19:31:13.555219 - Screensaver ON
+INFO:root:2020-09-14 19:31:43.901787 - Screensaver OFF by TIMEOUT, was on for 30.345967 seconds
+INFO:root:2020-09-14 19:32:45.722103 - Screensaver ON
+INFO:root:2020-09-14 19:33:16.082452 - Screensaver OFF by TIMEOUT, was on for 30.351193 seconds
+INFO:root:2020-09-14 19:34:17.888883 - Screensaver ON
+INFO:root:2020-09-14 19:34:48.338193 - Screensaver OFF by TIMEOUT, was on for 30.448535 seconds
+INFO:root:2020-09-14 19:35:50.123725 - Screensaver ON
+INFO:root:2020-09-14 19:36:20.473523 - Screensaver OFF by TIMEOUT, was on for 30.349013 seconds
+INFO:root:2020-09-14 19:37:22.289877 - Screensaver ON
+INFO:root:2020-09-14 19:37:52.633549 - Screensaver OFF by TIMEOUT, was on for 30.343041 seconds
+INFO:root:2020-09-14 19:38:54.466853 - Screensaver ON
+INFO:root:2020-09-14 19:39:24.822305 - Screensaver OFF by TIMEOUT, was on for 30.354894 seconds
+INFO:root:2020-09-14 19:40:26.640078 - Screensaver ON
+INFO:root:2020-09-14 19:40:56.985406 - Screensaver OFF by TIMEOUT, was on for 30.344761 seconds
+INFO:root:2020-09-14 19:41:58.807272 - Screensaver ON
+INFO:root:2020-09-14 19:42:29.262382 - Screensaver OFF by TIMEOUT, was on for 30.454341 seconds
+INFO:root:2020-09-14 19:43:31.066794 - Screensaver ON
+INFO:root:2020-09-14 19:44:01.413789 - Screensaver OFF by TIMEOUT, was on for 30.346404 seconds
+INFO:root:2020-09-14 19:45:03.225917 - Screensaver ON
+INFO:root:2020-09-14 19:45:33.568683 - Screensaver OFF by TIMEOUT, was on for 30.342113 seconds
+INFO:root:2020-09-14 19:46:35.391938 - Screensaver ON
+INFO:root:2020-09-14 19:47:05.838212 - Screensaver OFF by TIMEOUT, was on for 30.445588 seconds
+INFO:root:2020-09-14 19:48:07.626276 - Screensaver ON
+INFO:root:2020-09-14 19:48:38.077339 - Screensaver OFF by TIMEOUT, was on for 30.450265 seconds
+INFO:root:2020-09-14 19:49:39.891748 - Screensaver ON
+INFO:root:2020-09-14 19:50:10.246002 - Screensaver OFF by TIMEOUT, was on for 30.353689 seconds
+INFO:root:2020-09-14 19:51:12.058518 - Screensaver ON
+INFO:root:2020-09-14 19:51:42.505898 - Screensaver OFF by TIMEOUT, was on for 30.446705 seconds
+INFO:root:2020-09-14 19:52:44.325519 - Screensaver ON
+INFO:root:2020-09-14 19:53:14.769498 - Screensaver OFF by TIMEOUT, was on for 30.443267 seconds
+INFO:root:2020-09-14 19:54:16.558899 - Screensaver ON
+INFO:root:2020-09-14 19:54:46.794210 - Screensaver OFF by TIMEOUT, was on for 30.234827 seconds
+INFO:root:2020-09-14 19:55:48.728093 - Screensaver ON
+INFO:root:2020-09-14 19:56:18.963628 - Screensaver OFF by TIMEOUT, was on for 30.234879 seconds
+INFO:root:2020-09-14 19:57:20.893317 - Screensaver ON
+INFO:root:2020-09-14 19:57:51.337419 - Screensaver OFF by TIMEOUT, was on for 30.443576 seconds
+INFO:root:2020-09-14 19:58:53.143291 - Screensaver ON
+INFO:root:2020-09-14 19:59:23.493686 - Screensaver OFF by TIMEOUT, was on for 30.346588 seconds
+INFO:root:2020-09-14 20:00:25.310641 - Screensaver ON
+INFO:root:2020-09-14 20:00:55.765233 - Screensaver OFF by TIMEOUT, was on for 30.453889 seconds
+INFO:root:2020-09-14 20:01:57.562326 - Screensaver ON
+INFO:root:2020-09-14 20:02:27.847752 - Screensaver OFF by TIMEOUT, was on for 30.284907 seconds
+INFO:root:2020-09-14 20:03:39.763542 - Screensaver ON
+INFO:root:2020-09-14 20:03:56.142242 - Screensaver OFF by FACE, was on for 16.371061 seconds
+INFO:root:2020-09-14 20:04:59.110534 - Screensaver ON
+INFO:root:2020-09-14 20:05:29.359894 - Screensaver OFF by TIMEOUT, was on for 30.248529 seconds
+INFO:root:2020-09-14 20:06:31.295601 - Screensaver ON
+INFO:root:2020-09-14 20:07:01.527960 - Screensaver OFF by TIMEOUT, was on for 30.231764 seconds
+INFO:root:2020-09-14 20:08:03.445096 - Screensaver ON
+INFO:root:2020-09-14 20:08:33.679093 - Screensaver OFF by TIMEOUT, was on for 30.233277 seconds
+INFO:root:2020-09-14 20:09:35.595910 - Screensaver ON
+INFO:root:2020-09-14 20:10:05.826801 - Screensaver OFF by TIMEOUT, was on for 30.230343 seconds
+INFO:root:2020-09-14 20:11:07.746639 - Screensaver ON
+INFO:root:2020-09-14 20:11:37.991240 - Screensaver OFF by TIMEOUT, was on for 30.24404 seconds
+INFO:root:2020-09-14 20:12:39.914945 - Screensaver ON
+INFO:root:2020-09-14 20:13:10.147630 - Screensaver OFF by TIMEOUT, was on for 30.231788 seconds
+INFO:root:2020-09-14 20:14:12.081233 - Screensaver ON
+INFO:root:2020-09-14 20:14:42.314724 - Screensaver OFF by TIMEOUT, was on for 30.232918 seconds
+INFO:root:2020-09-14 20:15:44.231413 - Screensaver ON
+INFO:root:2020-09-14 20:16:14.463642 - Screensaver OFF by TIMEOUT, was on for 30.231542 seconds
+INFO:root:2020-09-14 20:17:16.381393 - Screensaver ON
+INFO:root:2020-09-14 20:17:46.611101 - Screensaver OFF by TIMEOUT, was on for 30.22901 seconds
+INFO:root:2020-09-14 20:18:48.533205 - Screensaver ON
+INFO:root:2020-09-14 20:19:18.808782 - Screensaver OFF by TIMEOUT, was on for 30.27474 seconds
+INFO:root:2020-09-14 20:20:20.698833 - Screensaver ON
+INFO:root:2020-09-14 20:20:50.935348 - Screensaver OFF by TIMEOUT, was on for 30.23584 seconds
+INFO:root:2020-09-14 20:21:52.865667 - Screensaver ON
+INFO:root:2020-09-14 20:22:23.099638 - Screensaver OFF by TIMEOUT, was on for 30.233277 seconds
+INFO:root:2020-09-14 20:23:25.031956 - Screensaver ON
+INFO:root:2020-09-14 20:23:55.266788 - Screensaver OFF by TIMEOUT, was on for 30.234141 seconds
+INFO:root:2020-09-14 20:24:57.200116 - Screensaver ON
+INFO:root:2020-09-14 20:25:27.435252 - Screensaver OFF by TIMEOUT, was on for 30.234292 seconds
+INFO:root:2020-09-14 20:26:29.366831 - Screensaver ON
+INFO:root:2020-09-14 20:26:59.600168 - Screensaver OFF by TIMEOUT, was on for 30.232466 seconds
+INFO:root:2020-09-14 20:28:01.534804 - Screensaver ON
+INFO:root:2020-09-14 20:28:31.771336 - Screensaver OFF by TIMEOUT, was on for 30.235748 seconds
+INFO:root:2020-09-14 20:29:33.715919 - Screensaver ON
+INFO:root:2020-09-14 20:29:38.940836 - Screensaver OFF by FACE, was on for 5.224227 seconds
+INFO:root:2020-09-14 20:30:40.834100 - Screensaver ON
+INFO:root:2020-09-14 20:31:11.103580 - Screensaver OFF by TIMEOUT, was on for 30.268824 seconds
+INFO:root:2020-09-14 20:32:13.000674 - Screensaver ON
+INFO:root:2020-09-14 20:32:43.287673 - Screensaver OFF by TIMEOUT, was on for 30.286322 seconds
+INFO:root:2020-09-14 20:33:45.167311 - Screensaver ON
+INFO:root:2020-09-14 20:34:15.422381 - Screensaver OFF by TIMEOUT, was on for 30.254413 seconds
+INFO:root:2020-09-14 20:35:17.334629 - Screensaver ON
+INFO:root:2020-09-14 20:35:47.591038 - Screensaver OFF by TIMEOUT, was on for 30.255733 seconds
+INFO:root:2020-09-14 20:36:50.529740 - Screensaver ON
+INFO:root:2020-09-14 20:37:20.795199 - Screensaver OFF by TIMEOUT, was on for 30.264578 seconds
+INFO:root:2020-09-14 20:38:22.719307 - Screensaver ON
+INFO:root:2020-09-14 20:38:52.963940 - Screensaver OFF by TIMEOUT, was on for 30.243969 seconds
+INFO:root:2020-09-14 20:39:54.886519 - Screensaver ON
+INFO:root:2020-09-14 20:40:06.326327 - Screensaver OFF by EXTERNAL, was on for 11.438651 seconds
+INFO:root:2020-09-14 21:23:06.680377 - Screensaver ON
+INFO:root:2020-09-14 21:23:37.129291 - Screensaver OFF by TIMEOUT, was on for 30.448313 seconds
+INFO:root:2020-09-14 21:24:38.974866 - Screensaver ON
+INFO:root:2020-09-14 21:25:09.330752 - Screensaver OFF by TIMEOUT, was on for 30.355189 seconds
+INFO:root:2020-09-14 21:26:11.132945 - Screensaver ON
+INFO:root:2020-09-14 21:26:41.483096 - Screensaver OFF by TIMEOUT, was on for 30.349403 seconds
+INFO:root:2020-09-14 21:27:43.316949 - Screensaver ON
+INFO:root:2020-09-14 21:28:13.665450 - Screensaver OFF by TIMEOUT, was on for 30.347717 seconds
+INFO:root:2020-09-14 21:29:15.498504 - Screensaver ON
+INFO:root:2020-09-14 21:29:45.852581 - Screensaver OFF by TIMEOUT, was on for 30.353521 seconds
+INFO:root:2020-09-14 21:30:47.701174 - Screensaver ON
+INFO:root:2020-09-14 21:31:18.145536 - Screensaver OFF by TIMEOUT, was on for 30.443579 seconds
+INFO:root:2020-09-14 21:32:19.949951 - Screensaver ON
+INFO:root:2020-09-14 21:32:50.298534 - Screensaver OFF by TIMEOUT, was on for 30.348008 seconds
+INFO:root:2020-09-14 21:33:52.134758 - Screensaver ON
+INFO:root:2020-09-14 21:34:22.484995 - Screensaver OFF by TIMEOUT, was on for 30.349433 seconds
+INFO:root:2020-09-14 21:35:24.283893 - Screensaver ON
+INFO:root:2020-09-14 21:35:54.737892 - Screensaver OFF by TIMEOUT, was on for 30.446725 seconds
+INFO:root:2020-09-14 21:36:56.535843 - Screensaver ON
+INFO:root:2020-09-14 21:37:26.881535 - Screensaver OFF by TIMEOUT, was on for 30.344894 seconds
+INFO:root:2020-09-14 21:38:28.701361 - Screensaver ON
+INFO:root:2020-09-14 21:38:59.149804 - Screensaver OFF by TIMEOUT, was on for 30.447733 seconds
+INFO:root:2020-09-14 21:40:00.969392 - Screensaver ON
+INFO:root:2020-09-14 21:40:31.323850 - Screensaver OFF by TIMEOUT, was on for 30.353714 seconds
+INFO:root:2020-09-14 21:41:33.135563 - Screensaver ON
+INFO:root:2020-09-14 21:42:03.587465 - Screensaver OFF by TIMEOUT, was on for 30.451282 seconds
+INFO:root:2020-09-14 21:43:05.385796 - Screensaver ON
+INFO:root:2020-09-14 21:43:35.732929 - Screensaver OFF by TIMEOUT, was on for 30.346549 seconds
+INFO:root:2020-09-14 21:44:37.552817 - Screensaver ON
+INFO:root:2020-09-14 21:45:08.001007 - Screensaver OFF by TIMEOUT, was on for 30.447624 seconds
+INFO:root:2020-09-14 21:46:09.787377 - Screensaver ON
+INFO:root:2020-09-14 21:46:40.233350 - Screensaver OFF by TIMEOUT, was on for 30.445205 seconds
+INFO:root:2020-09-14 21:47:42.019608 - Screensaver ON
+INFO:root:2020-09-14 21:48:12.369682 - Screensaver OFF by TIMEOUT, was on for 30.349471 seconds
+INFO:root:2020-09-14 21:49:14.188153 - Screensaver ON
+INFO:root:2020-09-14 21:49:44.533538 - Screensaver OFF by TIMEOUT, was on for 30.344579 seconds
+INFO:root:2020-09-14 21:50:46.354758 - Screensaver ON
+INFO:root:2020-09-14 21:51:16.810059 - Screensaver OFF by TIMEOUT, was on for 30.454483 seconds
+INFO:root:2020-09-14 21:52:18.604667 - Screensaver ON
+INFO:root:2020-09-14 21:52:49.049479 - Screensaver OFF by TIMEOUT, was on for 30.444125 seconds
+INFO:root:2020-09-14 21:53:50.873076 - Screensaver ON
+INFO:root:2020-09-14 21:54:21.221823 - Screensaver OFF by TIMEOUT, was on for 30.346592 seconds
+INFO:root:2020-09-14 21:55:23.039088 - Screensaver ON
+INFO:root:2020-09-14 21:55:53.384861 - Screensaver OFF by TIMEOUT, was on for 30.345202 seconds
+INFO:root:2020-09-14 21:56:55.205955 - Screensaver ON
+INFO:root:2020-09-14 21:57:25.657748 - Screensaver OFF by TIMEOUT, was on for 30.451143 seconds
+INFO:root:2020-09-14 21:58:27.473159 - Screensaver ON
+INFO:root:2020-09-14 21:58:57.917670 - Screensaver OFF by TIMEOUT, was on for 30.443876 seconds
+INFO:root:2020-09-14 22:00:00.784286 - Screensaver ON
+INFO:root:2020-09-14 22:00:31.239960 - Screensaver OFF by TIMEOUT, was on for 30.455081 seconds
+INFO:root:2020-09-14 22:01:33.039784 - Screensaver ON
+INFO:root:2020-09-14 22:02:03.399812 - Screensaver OFF by TIMEOUT, was on for 30.3594 seconds
+INFO:root:2020-09-14 22:03:05.205684 - Screensaver ON
+INFO:root:2020-09-14 22:03:35.649042 - Screensaver OFF by TIMEOUT, was on for 30.442807 seconds
+INFO:root:2020-09-14 22:04:37.471518 - Screensaver ON
+INFO:root:2020-09-14 22:05:07.825606 - Screensaver OFF by TIMEOUT, was on for 30.352715 seconds
+INFO:root:2020-09-14 22:06:09.637471 - Screensaver ON
+INFO:root:2020-09-14 22:06:39.986039 - Screensaver OFF by TIMEOUT, was on for 30.347953 seconds
+INFO:root:2020-09-14 22:07:41.803485 - Screensaver ON
+INFO:root:2020-09-14 22:08:12.153493 - Screensaver OFF by TIMEOUT, was on for 30.349421 seconds
+INFO:root:2020-09-14 22:09:13.971851 - Screensaver ON
+INFO:root:2020-09-14 22:09:44.316702 - Screensaver OFF by TIMEOUT, was on for 30.344222 seconds
+INFO:root:2020-09-14 22:11:51.368100 - Screensaver ON
+INFO:root:2020-09-14 22:12:21.716525 - Screensaver OFF by TIMEOUT, was on for 30.347691 seconds
+INFO:root:2020-09-14 22:13:23.537187 - Screensaver ON
+INFO:root:2020-09-14 22:13:53.880584 - Screensaver OFF by TIMEOUT, was on for 30.342815 seconds
+INFO:root:2020-09-14 22:14:55.704512 - Screensaver ON
+INFO:root:2020-09-14 22:15:26.153206 - Screensaver OFF by TIMEOUT, was on for 30.448112 seconds
+INFO:root:2020-09-14 22:16:27.987160 - Screensaver ON
+INFO:root:2020-09-14 22:16:58.333743 - Screensaver OFF by TIMEOUT, was on for 30.346002 seconds
+INFO:root:2020-09-14 22:18:00.170176 - Screensaver ON
+INFO:root:2020-09-14 22:18:30.617396 - Screensaver OFF by TIMEOUT, was on for 30.44662 seconds
+INFO:root:2020-09-14 22:19:32.419863 - Screensaver ON
+INFO:root:2020-09-14 22:20:02.865741 - Screensaver OFF by TIMEOUT, was on for 30.445252 seconds
+INFO:root:2020-09-14 22:21:04.654618 - Screensaver ON
+INFO:root:2020-09-14 22:21:35.105186 - Screensaver OFF by TIMEOUT, was on for 30.449813 seconds
+INFO:root:2020-09-14 22:22:36.936405 - Screensaver ON
+INFO:root:2020-09-14 22:23:07.285618 - Screensaver OFF by TIMEOUT, was on for 30.348548 seconds
+INFO:root:2020-09-14 22:24:09.103138 - Screensaver ON
+INFO:root:2020-09-14 22:24:39.453049 - Screensaver OFF by TIMEOUT, was on for 30.349301 seconds
+INFO:root:2020-09-14 22:25:41.272014 - Screensaver ON
+INFO:root:2020-09-14 22:26:11.717089 - Screensaver OFF by TIMEOUT, was on for 30.444289 seconds
+INFO:root:2020-09-14 22:27:13.503432 - Screensaver ON
+INFO:root:2020-09-14 22:27:43.853510 - Screensaver OFF by TIMEOUT, was on for 30.349546 seconds
+INFO:root:2020-09-14 22:28:45.670570 - Screensaver ON
+INFO:root:2020-09-14 22:29:16.122413 - Screensaver OFF by TIMEOUT, was on for 30.45119 seconds
+INFO:root:2020-09-14 22:30:17.938320 - Screensaver ON
+INFO:root:2020-09-14 22:30:48.386126 - Screensaver OFF by TIMEOUT, was on for 30.447174 seconds
+INFO:root:2020-09-14 22:31:50.204869 - Screensaver ON
+INFO:root:2020-09-14 22:32:20.649915 - Screensaver OFF by TIMEOUT, was on for 30.444415 seconds
+INFO:root:2020-09-14 22:33:22.471856 - Screensaver ON
+INFO:root:2020-09-14 22:33:52.917937 - Screensaver OFF by TIMEOUT, was on for 30.445426 seconds
+INFO:root:2020-09-14 22:34:54.705709 - Screensaver ON
+INFO:root:2020-09-14 22:35:25.049402 - Screensaver OFF by TIMEOUT, was on for 30.343084 seconds
+INFO:root:2020-09-14 22:36:26.873042 - Screensaver ON
+INFO:root:2020-09-14 22:36:57.226868 - Screensaver OFF by TIMEOUT, was on for 30.353145 seconds
+INFO:root:2020-09-14 22:37:59.040294 - Screensaver ON
+INFO:root:2020-09-14 22:38:29.385693 - Screensaver OFF by TIMEOUT, was on for 30.34485 seconds
+INFO:root:2020-09-14 22:39:31.207586 - Screensaver ON
+INFO:root:2020-09-14 22:40:01.553368 - Screensaver OFF by TIMEOUT, was on for 30.345109 seconds
+INFO:root:2020-09-14 22:41:03.390587 - Screensaver ON
+INFO:root:2020-09-14 22:41:33.841437 - Screensaver OFF by TIMEOUT, was on for 30.450258 seconds
+INFO:root:2020-09-14 22:42:35.641981 - Screensaver ON
+INFO:root:2020-09-14 22:43:05.996987 - Screensaver OFF by TIMEOUT, was on for 30.35443 seconds
+INFO:root:2020-09-14 22:44:07.809607 - Screensaver ON
+INFO:root:2020-09-14 22:44:38.157729 - Screensaver OFF by TIMEOUT, was on for 30.347388 seconds
+INFO:root:2020-09-14 22:45:39.994518 - Screensaver ON
+INFO:root:2020-09-14 22:45:40.187130 - Screensaver OFF by EXTERNAL, was on for 0.192082 seconds
+INFO:root:2020-09-14 22:46:47.171494 - Screensaver ON
+INFO:root:2020-09-14 22:47:17.521397 - Screensaver OFF by TIMEOUT, was on for 30.349101 seconds
+INFO:root:2020-09-14 22:48:19.344887 - Screensaver ON
+INFO:root:2020-09-14 22:48:49.689373 - Screensaver OFF by TIMEOUT, was on for 30.34371 seconds
+INFO:root:2020-09-14 22:49:51.510468 - Screensaver ON
+INFO:root:2020-09-14 22:50:21.957252 - Screensaver OFF by TIMEOUT, was on for 30.44615 seconds
+INFO:root:2020-09-14 22:51:23.779318 - Screensaver ON
+INFO:root:2020-09-14 22:51:54.229731 - Screensaver OFF by TIMEOUT, was on for 30.449308 seconds
+INFO:root:2020-09-14 22:52:56.061507 - Screensaver ON
+INFO:root:2020-09-14 22:53:26.409220 - Screensaver OFF by TIMEOUT, was on for 30.347127 seconds
+INFO:root:2020-09-14 22:54:28.228237 - Screensaver ON
+INFO:root:2020-09-14 22:54:58.673518 - Screensaver OFF by TIMEOUT, was on for 30.444677 seconds
+INFO:root:2020-09-14 22:56:00.479601 - Screensaver ON
+INFO:root:2020-09-14 22:56:30.829401 - Screensaver OFF by TIMEOUT, was on for 30.349033 seconds
+INFO:root:2020-09-14 22:57:32.645809 - Screensaver ON
+INFO:root:2020-09-14 22:58:02.992966 - Screensaver OFF by TIMEOUT, was on for 30.346344 seconds
+INFO:root:2020-09-14 22:59:04.813030 - Screensaver ON
+INFO:root:2020-09-14 22:59:35.165893 - Screensaver OFF by TIMEOUT, was on for 30.352089 seconds
+INFO:root:2020-09-14 23:00:36.978651 - Screensaver ON
+INFO:root:2020-09-14 23:01:07.328562 - Screensaver OFF by TIMEOUT, was on for 30.349327 seconds
+INFO:root:2020-09-14 23:02:09.147252 - Screensaver ON
+INFO:root:2020-09-14 23:02:39.492934 - Screensaver OFF by TIMEOUT, was on for 30.344877 seconds
+INFO:root:2020-09-14 23:03:41.313631 - Screensaver ON
+INFO:root:2020-09-14 23:04:11.656909 - Screensaver OFF by TIMEOUT, was on for 30.342718 seconds
+INFO:root:2020-09-14 23:05:13.481517 - Screensaver ON
+INFO:root:2020-09-14 23:05:43.830141 - Screensaver OFF by TIMEOUT, was on for 30.347831 seconds
+INFO:root:2020-09-14 23:06:45.647189 - Screensaver ON
+INFO:root:2020-09-14 23:07:16.093370 - Screensaver OFF by TIMEOUT, was on for 30.445594 seconds
+INFO:root:2020-09-14 23:08:17.914227 - Screensaver ON
+INFO:root:2020-09-14 23:08:48.260907 - Screensaver OFF by TIMEOUT, was on for 30.346101 seconds
+INFO:root:2020-09-14 23:09:50.081944 - Screensaver ON
+INFO:root:2020-09-14 23:09:56.009428 - Screensaver OFF by FACE, was on for 5.926781 seconds
+INFO:root:2020-09-14 23:10:57.797974 - Screensaver ON
+INFO:root:2020-09-14 23:11:28.241357 - Screensaver OFF by TIMEOUT, was on for 30.442705 seconds
+INFO:root:2020-09-14 23:12:30.032495 - Screensaver ON
+INFO:root:2020-09-14 23:13:00.378049 - Screensaver OFF by TIMEOUT, was on for 30.344974 seconds
+INFO:root:2020-09-14 23:14:02.199849 - Screensaver ON
+INFO:root:2020-09-14 23:14:32.546144 - Screensaver OFF by TIMEOUT, was on for 30.345646 seconds
+INFO:root:2020-09-14 23:15:34.366507 - Screensaver ON
+INFO:root:2020-09-14 23:16:04.713362 - Screensaver OFF by TIMEOUT, was on for 30.3463 seconds
+INFO:root:2020-09-14 23:17:06.538840 - Screensaver ON
+INFO:root:2020-09-14 23:17:36.989648 - Screensaver OFF by TIMEOUT, was on for 30.450057 seconds
+INFO:root:2020-09-14 23:18:38.784076 - Screensaver ON
+INFO:root:2020-09-14 23:19:09.130507 - Screensaver OFF by TIMEOUT, was on for 30.345826 seconds
+INFO:root:2020-09-14 23:20:10.950839 - Screensaver ON
+INFO:root:2020-09-14 23:20:41.301828 - Screensaver OFF by TIMEOUT, was on for 30.35043 seconds
+INFO:root:2020-09-14 23:21:43.132434 - Screensaver ON
+INFO:root:2020-09-14 23:22:13.491624 - Screensaver OFF by TIMEOUT, was on for 30.358376 seconds
+INFO:root:2020-09-14 23:23:15.286298 - Screensaver ON
+INFO:root:2020-09-14 23:23:45.735822 - Screensaver OFF by TIMEOUT, was on for 30.448896 seconds
+INFO:root:2020-09-14 23:24:47.520303 - Screensaver ON
+INFO:root:2020-09-14 23:25:17.971159 - Screensaver OFF by TIMEOUT, was on for 30.450013 seconds
+INFO:root:2020-09-14 23:26:19.802937 - Screensaver ON
+INFO:root:2020-09-14 23:26:50.253078 - Screensaver OFF by TIMEOUT, was on for 30.44959 seconds
+INFO:root:2020-09-14 23:27:52.087677 - Screensaver ON
+INFO:root:2020-09-14 23:28:22.434017 - Screensaver OFF by TIMEOUT, was on for 30.345475 seconds
+INFO:root:2020-09-14 23:29:24.253205 - Screensaver ON
+INFO:root:2020-09-14 23:29:54.697143 - Screensaver OFF by TIMEOUT, was on for 30.443318 seconds
+INFO:root:2020-09-14 23:30:56.485939 - Screensaver ON
+INFO:root:2020-09-14 23:31:26.833219 - Screensaver OFF by TIMEOUT, was on for 30.346711 seconds
+INFO:root:2020-09-14 23:32:28.654304 - Screensaver ON
+INFO:root:2020-09-14 23:32:59.001161 - Screensaver OFF by TIMEOUT, was on for 30.34621 seconds
+INFO:root:2020-09-14 23:34:00.839443 - Screensaver ON
+INFO:root:2020-09-14 23:34:31.194123 - Screensaver OFF by TIMEOUT, was on for 30.353872 seconds
+INFO:root:2020-09-14 23:35:34.039102 - Screensaver ON
+INFO:root:2020-09-14 23:36:04.397220 - Screensaver OFF by TIMEOUT, was on for 30.357315 seconds
+INFO:root:2020-09-14 23:37:06.223519 - Screensaver ON
+INFO:root:2020-09-14 23:37:36.670049 - Screensaver OFF by TIMEOUT, was on for 30.445749 seconds
+INFO:root:2020-09-14 23:38:38.454907 - Screensaver ON
+INFO:root:2020-09-14 23:39:08.801600 - Screensaver OFF by TIMEOUT, was on for 30.346088 seconds
+INFO:root:2020-09-14 23:40:10.623890 - Screensaver ON
+INFO:root:2020-09-14 23:40:40.977932 - Screensaver OFF by TIMEOUT, was on for 30.350621 seconds
+INFO:root:2020-09-14 23:41:42.789052 - Screensaver ON
+INFO:root:2020-09-14 23:42:13.233343 - Screensaver OFF by TIMEOUT, was on for 30.443599 seconds
+INFO:root:2020-09-14 23:43:15.056787 - Screensaver ON
+INFO:root:2020-09-14 23:43:45.511415 - Screensaver OFF by TIMEOUT, was on for 30.454047 seconds
+INFO:root:2020-09-14 23:44:47.322653 - Screensaver ON
+INFO:root:2020-09-14 23:45:17.669774 - Screensaver OFF by TIMEOUT, was on for 30.346395 seconds
+INFO:root:2020-09-14 23:46:19.491202 - Screensaver ON
+INFO:root:2020-09-14 23:46:49.842177 - Screensaver OFF by TIMEOUT, was on for 30.350389 seconds
+INFO:root:2020-09-14 23:47:51.657831 - Screensaver ON
+INFO:root:2020-09-14 23:48:22.104831 - Screensaver OFF by TIMEOUT, was on for 30.446356 seconds
+INFO:root:2020-09-14 23:49:23.923440 - Screensaver ON
+INFO:root:2020-09-14 23:49:54.274287 - Screensaver OFF by TIMEOUT, was on for 30.350196 seconds
+INFO:root:2020-09-14 23:50:56.093181 - Screensaver ON
+INFO:root:2020-09-14 23:51:26.537498 - Screensaver OFF by TIMEOUT, was on for 30.443556 seconds
+INFO:root:2020-09-14 23:52:28.324880 - Screensaver ON
+INFO:root:2020-09-14 23:52:58.773225 - Screensaver OFF by TIMEOUT, was on for 30.44759 seconds
+INFO:root:2020-09-14 23:54:00.593702 - Screensaver ON
+INFO:root:2020-09-14 23:54:30.942387 - Screensaver OFF by TIMEOUT, was on for 30.347851 seconds
+INFO:root:2020-09-14 23:55:32.758623 - Screensaver ON
+INFO:root:2020-09-14 23:56:03.113262 - Screensaver OFF by TIMEOUT, was on for 30.354035 seconds
+INFO:root:2020-09-14 23:57:04.927625 - Screensaver ON
+INFO:root:2020-09-14 23:57:35.378060 - Screensaver OFF by TIMEOUT, was on for 30.44964 seconds
+INFO:root:2020-09-14 23:58:37.193716 - Screensaver ON
+INFO:root:2020-09-14 23:59:07.541269 - Screensaver OFF by TIMEOUT, was on for 30.346889 seconds
+INFO:root:2020-09-15 00:00:10.373319 - Screensaver ON
+INFO:root:2020-09-15 00:00:40.828665 - Screensaver OFF by TIMEOUT, was on for 30.454392 seconds
+INFO:root:2020-09-15 00:01:42.610774 - Screensaver ON
+INFO:root:2020-09-15 00:02:12.962169 - Screensaver OFF by TIMEOUT, was on for 30.350797 seconds
+INFO:root:2020-09-15 00:03:14.778355 - Screensaver ON
+INFO:root:2020-09-15 00:03:45.124798 - Screensaver OFF by TIMEOUT, was on for 30.345637 seconds
+INFO:root:2020-09-15 00:04:46.943986 - Screensaver ON
+INFO:root:2020-09-15 00:05:17.297399 - Screensaver OFF by TIMEOUT, was on for 30.352823 seconds
+INFO:root:2020-09-15 00:06:19.111623 - Screensaver ON
+INFO:root:2020-09-15 00:06:49.562437 - Screensaver OFF by TIMEOUT, was on for 30.450191 seconds
+INFO:root:2020-09-15 00:07:51.363126 - Screensaver ON
+INFO:root:2020-09-15 00:08:21.711170 - Screensaver OFF by TIMEOUT, was on for 30.346692 seconds
+INFO:root:2020-09-15 00:09:23.528459 - Screensaver ON
+INFO:root:2020-09-15 00:09:53.973746 - Screensaver OFF by TIMEOUT, was on for 30.444595 seconds
+INFO:root:2020-09-15 00:10:55.761476 - Screensaver ON
+INFO:root:2020-09-15 00:11:26.213985 - Screensaver OFF by TIMEOUT, was on for 30.451815 seconds
+INFO:root:2020-09-15 00:12:27.995608 - Screensaver ON
+INFO:root:2020-09-15 00:12:58.341954 - Screensaver OFF by TIMEOUT, was on for 30.345727 seconds
+INFO:root:2020-09-15 00:14:00.181136 - Screensaver ON
+INFO:root:2020-09-15 00:14:30.625547 - Screensaver OFF by TIMEOUT, was on for 30.443582 seconds
+INFO:root:2020-09-15 00:15:32.414924 - Screensaver ON
+INFO:root:2020-09-15 00:16:02.862042 - Screensaver OFF by TIMEOUT, was on for 30.44631 seconds
+INFO:root:2020-09-15 00:17:04.647476 - Screensaver ON
+INFO:root:2020-09-15 00:17:35.093815 - Screensaver OFF by TIMEOUT, was on for 30.445741 seconds
+INFO:root:2020-09-15 00:18:36.886839 - Screensaver ON
+INFO:root:2020-09-15 00:19:07.334284 - Screensaver OFF by TIMEOUT, was on for 30.446874 seconds
+INFO:root:2020-09-15 00:20:09.148349 - Screensaver ON
+INFO:root:2020-09-15 00:20:39.493024 - Screensaver OFF by TIMEOUT, was on for 30.34392 seconds
+INFO:root:2020-09-15 00:21:41.314097 - Screensaver ON
+INFO:root:2020-09-15 00:22:11.657952 - Screensaver OFF by TIMEOUT, was on for 30.343213 seconds
+INFO:root:2020-09-15 00:23:13.481578 - Screensaver ON
+INFO:root:2020-09-15 00:23:43.929662 - Screensaver OFF by TIMEOUT, was on for 30.447397 seconds
+INFO:root:2020-09-15 00:24:45.714843 - Screensaver ON
+INFO:root:2020-09-15 00:25:16.060699 - Screensaver OFF by TIMEOUT, was on for 30.345268 seconds
+INFO:root:2020-09-15 00:26:17.881701 - Screensaver ON
+INFO:root:2020-09-15 00:26:48.325035 - Screensaver OFF by TIMEOUT, was on for 30.442768 seconds
+INFO:root:2020-09-15 00:27:50.158800 - Screensaver ON
+INFO:root:2020-09-15 00:28:20.606380 - Screensaver OFF by TIMEOUT, was on for 30.446941 seconds
+INFO:root:2020-09-15 00:29:22.398613 - Screensaver ON
+INFO:root:2020-09-15 00:29:52.850617 - Screensaver OFF by TIMEOUT, was on for 30.451394 seconds
+INFO:root:2020-09-15 00:30:54.633820 - Screensaver ON
+INFO:root:2020-09-15 00:31:24.981374 - Screensaver OFF by TIMEOUT, was on for 30.346768 seconds
+INFO:root:2020-09-15 00:32:26.799211 - Screensaver ON
+INFO:root:2020-09-15 00:32:57.145516 - Screensaver OFF by TIMEOUT, was on for 30.345675 seconds
+INFO:root:2020-09-15 00:33:58.966788 - Screensaver ON
+INFO:root:2020-09-15 00:34:29.320305 - Screensaver OFF by TIMEOUT, was on for 30.352762 seconds
+INFO:root:2020-09-15 00:35:31.132925 - Screensaver ON
+INFO:root:2020-09-15 00:36:01.485154 - Screensaver OFF by TIMEOUT, was on for 30.351626 seconds
+INFO:root:2020-09-15 00:37:03.301840 - Screensaver ON
+INFO:root:2020-09-15 00:37:33.749928 - Screensaver OFF by TIMEOUT, was on for 30.447288 seconds
+INFO:root:2020-09-15 00:38:35.583678 - Screensaver ON
+INFO:root:2020-09-15 00:39:05.933283 - Screensaver OFF by TIMEOUT, was on for 30.348956 seconds
+INFO:root:2020-09-15 00:40:07.749296 - Screensaver ON
+INFO:root:2020-09-15 00:40:38.209910 - Screensaver OFF by TIMEOUT, was on for 30.450615 seconds
+INFO:root:2020-09-15 00:41:40.034183 - Screensaver ON
+INFO:root:2020-09-15 00:42:10.483758 - Screensaver OFF by TIMEOUT, was on for 30.448909 seconds
+INFO:root:2020-09-15 00:43:12.283009 - Screensaver ON
+INFO:root:2020-09-15 00:43:42.729973 - Screensaver OFF by TIMEOUT, was on for 30.446336 seconds
+INFO:root:2020-09-15 00:44:44.518649 - Screensaver ON
+INFO:root:2020-09-15 00:45:14.874812 - Screensaver OFF by TIMEOUT, was on for 30.355291 seconds
+INFO:root:2020-09-15 00:46:16.684914 - Screensaver ON
+INFO:root:2020-09-15 00:46:47.033349 - Screensaver OFF by TIMEOUT, was on for 30.347849 seconds
+INFO:root:2020-09-15 00:47:48.852799 - Screensaver ON
+INFO:root:2020-09-15 00:48:19.201731 - Screensaver OFF by TIMEOUT, was on for 30.346465 seconds
+INFO:root:2020-09-15 00:49:21.018883 - Screensaver ON
+INFO:root:2020-09-15 00:49:51.373152 - Screensaver OFF by TIMEOUT, was on for 30.353554 seconds
+INFO:root:2020-09-15 00:50:53.185931 - Screensaver ON
+INFO:root:2020-09-15 00:51:23.629453 - Screensaver OFF by TIMEOUT, was on for 30.442899 seconds
+INFO:root:2020-09-15 00:52:25.451307 - Screensaver ON
+INFO:root:2020-09-15 00:52:55.902123 - Screensaver OFF by TIMEOUT, was on for 30.450027 seconds
+INFO:root:2020-09-15 00:53:57.720237 - Screensaver ON
+INFO:root:2020-09-15 00:54:28.070159 - Screensaver OFF by TIMEOUT, was on for 30.349348 seconds
+INFO:root:2020-09-15 00:55:29.886498 - Screensaver ON
+INFO:root:2020-09-15 00:56:00.233631 - Screensaver OFF by TIMEOUT, was on for 30.346448 seconds
+INFO:root:2020-09-15 00:57:02.070752 - Screensaver ON
+INFO:root:2020-09-15 00:57:32.417641 - Screensaver OFF by TIMEOUT, was on for 30.346266 seconds
+INFO:root:2020-09-15 00:58:34.237559 - Screensaver ON
+INFO:root:2020-09-15 00:59:04.582105 - Screensaver OFF by TIMEOUT, was on for 30.343915 seconds
+INFO:root:2020-09-15 01:00:06.403924 - Screensaver ON
+INFO:root:2020-09-15 01:00:36.850101 - Screensaver OFF by TIMEOUT, was on for 30.445466 seconds
+INFO:root:2020-09-15 01:01:38.638734 - Screensaver ON
+INFO:root:2020-09-15 01:02:09.100259 - Screensaver OFF by TIMEOUT, was on for 30.460928 seconds
+INFO:root:2020-09-15 01:03:10.922172 - Screensaver ON
+INFO:root:2020-09-15 01:03:41.268772 - Screensaver OFF by TIMEOUT, was on for 30.345996 seconds
+INFO:root:2020-09-15 01:04:43.090375 - Screensaver ON
+INFO:root:2020-09-15 01:05:13.445098 - Screensaver OFF by TIMEOUT, was on for 30.345764 seconds
+INFO:root:2020-09-15 01:06:15.255559 - Screensaver ON
+INFO:root:2020-09-15 01:06:45.601386 - Screensaver OFF by TIMEOUT, was on for 30.345219 seconds
+INFO:root:2020-09-15 01:07:47.423436 - Screensaver ON
+INFO:root:2020-09-15 01:08:17.870484 - Screensaver OFF by TIMEOUT, was on for 30.446441 seconds
+INFO:root:2020-09-15 01:09:19.673800 - Screensaver ON
+INFO:root:2020-09-15 01:09:50.121218 - Screensaver OFF by TIMEOUT, was on for 30.446811 seconds
+INFO:root:2020-09-15 01:10:51.907686 - Screensaver ON
+INFO:root:2020-09-15 01:11:22.262295 - Screensaver OFF by TIMEOUT, was on for 30.353973 seconds
+INFO:root:2020-09-15 01:12:24.073077 - Screensaver ON
+INFO:root:2020-09-15 01:12:54.422224 - Screensaver OFF by TIMEOUT, was on for 30.348478 seconds
+INFO:root:2020-09-15 01:13:56.242403 - Screensaver ON
+INFO:root:2020-09-15 01:14:26.593132 - Screensaver OFF by TIMEOUT, was on for 30.349919 seconds
+INFO:root:2020-09-15 01:15:28.410336 - Screensaver ON
+INFO:root:2020-09-15 01:15:58.761421 - Screensaver OFF by TIMEOUT, was on for 30.350191 seconds
+INFO:root:2020-09-15 01:17:00.591701 - Screensaver ON
+INFO:root:2020-09-15 01:17:30.937201 - Screensaver OFF by TIMEOUT, was on for 30.344909 seconds
+INFO:root:2020-09-15 01:18:32.759034 - Screensaver ON
+INFO:root:2020-09-15 01:19:03.109424 - Screensaver OFF by TIMEOUT, was on for 30.349809 seconds
+INFO:root:2020-09-15 01:20:04.926090 - Screensaver ON
+INFO:root:2020-09-15 01:20:35.369093 - Screensaver OFF by TIMEOUT, was on for 30.442415 seconds
+INFO:root:2020-09-15 01:21:37.192698 - Screensaver ON
+INFO:root:2020-09-15 01:22:07.537155 - Screensaver OFF by TIMEOUT, was on for 30.34387 seconds
+INFO:root:2020-09-15 01:23:09.360189 - Screensaver ON
+INFO:root:2020-09-15 01:23:39.714431 - Screensaver OFF by TIMEOUT, was on for 30.353648 seconds
+INFO:root:2020-09-15 01:24:41.528102 - Screensaver ON
+INFO:root:2020-09-15 01:25:11.989669 - Screensaver OFF by TIMEOUT, was on for 30.454469 seconds
+INFO:root:2020-09-15 01:26:13.790937 - Screensaver ON
+INFO:root:2020-09-15 01:26:44.142733 - Screensaver OFF by TIMEOUT, was on for 30.349647 seconds
+INFO:root:2020-09-15 01:27:45.962361 - Screensaver ON
+INFO:root:2020-09-15 01:28:16.410096 - Screensaver OFF by TIMEOUT, was on for 30.446884 seconds
+INFO:root:2020-09-15 01:29:18.194530 - Screensaver ON
+INFO:root:2020-09-15 01:29:48.541728 - Screensaver OFF by TIMEOUT, was on for 30.346519 seconds
+INFO:root:2020-09-15 01:30:50.362901 - Screensaver ON
+INFO:root:2020-09-15 01:31:20.713258 - Screensaver OFF by TIMEOUT, was on for 30.349694 seconds
+INFO:root:2020-09-15 01:32:22.529631 - Screensaver ON
+INFO:root:2020-09-15 01:32:52.880993 - Screensaver OFF by TIMEOUT, was on for 30.350789 seconds
+INFO:root:2020-09-15 01:33:54.696479 - Screensaver ON
+INFO:root:2020-09-15 01:34:25.141878 - Screensaver OFF by TIMEOUT, was on for 30.444783 seconds
+INFO:root:2020-09-15 01:35:26.929984 - Screensaver ON
+INFO:root:2020-09-15 01:35:57.276985 - Screensaver OFF by TIMEOUT, was on for 30.346372 seconds
+INFO:root:2020-09-15 01:36:59.097664 - Screensaver ON
+INFO:root:2020-09-15 01:37:29.441387 - Screensaver OFF by TIMEOUT, was on for 30.343045 seconds
+INFO:root:2020-09-15 01:38:31.263045 - Screensaver ON
+INFO:root:2020-09-15 01:39:01.717685 - Screensaver OFF by TIMEOUT, was on for 30.454033 seconds
+INFO:root:2020-09-15 01:40:03.547277 - Screensaver ON
+INFO:root:2020-09-15 01:40:33.998265 - Screensaver OFF by TIMEOUT, was on for 30.450298 seconds
+INFO:root:2020-09-15 01:41:35.830693 - Screensaver ON
+INFO:root:2020-09-15 01:42:06.282190 - Screensaver OFF by TIMEOUT, was on for 30.450416 seconds
+INFO:root:2020-09-15 01:43:08.107804 - Screensaver ON
+INFO:root:2020-09-15 01:43:38.453441 - Screensaver OFF by TIMEOUT, was on for 30.344973 seconds
+INFO:root:2020-09-15 01:44:40.265594 - Screensaver ON
+INFO:root:2020-09-15 01:45:10.713828 - Screensaver OFF by TIMEOUT, was on for 30.447474 seconds
+INFO:root:2020-09-15 01:46:12.498641 - Screensaver ON
+INFO:root:2020-09-15 01:46:42.845753 - Screensaver OFF by TIMEOUT, was on for 30.346419 seconds
+INFO:root:2020-09-15 01:47:44.665324 - Screensaver ON
+INFO:root:2020-09-15 01:48:15.013647 - Screensaver OFF by TIMEOUT, was on for 30.347753 seconds
+INFO:root:2020-09-15 01:49:16.817000 - Screensaver ON
+INFO:root:2020-09-15 01:49:47.260725 - Screensaver OFF by TIMEOUT, was on for 30.443134 seconds
+INFO:root:2020-09-15 01:50:49.078897 - Screensaver ON
+INFO:root:2020-09-15 01:51:19.430821 - Screensaver OFF by TIMEOUT, was on for 30.351205 seconds
+INFO:root:2020-09-15 01:52:21.251767 - Screensaver ON
+INFO:root:2020-09-15 01:52:51.702439 - Screensaver OFF by TIMEOUT, was on for 30.449857 seconds
+INFO:root:2020-09-15 01:53:53.516447 - Screensaver ON
+INFO:root:2020-09-15 01:54:23.864737 - Screensaver OFF by TIMEOUT, was on for 30.347638 seconds
+INFO:root:2020-09-15 01:55:25.698192 - Screensaver ON
+INFO:root:2020-09-15 01:55:56.049952 - Screensaver OFF by TIMEOUT, was on for 30.350463 seconds
+INFO:root:2020-09-15 01:56:57.869675 - Screensaver ON
+INFO:root:2020-09-15 01:57:28.214721 - Screensaver OFF by TIMEOUT, was on for 30.344261 seconds
+INFO:root:2020-09-15 01:58:30.036499 - Screensaver ON
+INFO:root:2020-09-15 01:59:00.381780 - Screensaver OFF by TIMEOUT, was on for 30.344509 seconds
+INFO:root:2020-09-15 02:00:02.203452 - Screensaver ON
+INFO:root:2020-09-15 02:00:32.654628 - Screensaver OFF by TIMEOUT, was on for 30.450535 seconds
+INFO:root:2020-09-15 02:01:34.487256 - Screensaver ON
+INFO:root:2020-09-15 02:02:04.833682 - Screensaver OFF by TIMEOUT, was on for 30.345619 seconds
+INFO:root:2020-09-15 02:03:06.654026 - Screensaver ON
+INFO:root:2020-09-15 02:03:37.001979 - Screensaver OFF by TIMEOUT, was on for 30.347144 seconds
+INFO:root:2020-09-15 02:04:38.818300 - Screensaver ON
+INFO:root:2020-09-15 02:05:09.169973 - Screensaver OFF by TIMEOUT, was on for 30.351111 seconds
+INFO:root:2020-09-15 02:06:10.986747 - Screensaver ON
+INFO:root:2020-09-15 02:06:41.336472 - Screensaver OFF by TIMEOUT, was on for 30.349121 seconds
+INFO:root:2020-09-15 02:07:43.154698 - Screensaver ON
+INFO:root:2020-09-15 02:08:13.605501 - Screensaver OFF by TIMEOUT, was on for 30.450196 seconds
+INFO:root:2020-09-15 02:09:15.439330 - Screensaver ON
+INFO:root:2020-09-15 02:09:45.792928 - Screensaver OFF by TIMEOUT, was on for 30.345658 seconds
+INFO:root:2020-09-15 02:10:47.604789 - Screensaver ON
+INFO:root:2020-09-15 02:11:17.949477 - Screensaver OFF by TIMEOUT, was on for 30.344084 seconds
+INFO:root:2020-09-15 02:12:19.770208 - Screensaver ON
+INFO:root:2020-09-15 02:12:50.217238 - Screensaver OFF by TIMEOUT, was on for 30.446452 seconds
+INFO:root:2020-09-15 02:13:52.039898 - Screensaver ON
+INFO:root:2020-09-15 02:14:22.389166 - Screensaver OFF by TIMEOUT, was on for 30.348485 seconds
+INFO:root:2020-09-15 02:15:24.205993 - Screensaver ON
+INFO:root:2020-09-15 02:15:54.553653 - Screensaver OFF by TIMEOUT, was on for 30.34709 seconds
+INFO:root:2020-09-15 02:16:56.373057 - Screensaver ON
+INFO:root:2020-09-15 02:17:26.821630 - Screensaver OFF by TIMEOUT, was on for 30.447858 seconds
+INFO:root:2020-09-15 02:18:28.606303 - Screensaver ON
+INFO:root:2020-09-15 02:18:58.953916 - Screensaver OFF by TIMEOUT, was on for 30.346983 seconds
+INFO:root:2020-09-15 02:20:00.791129 - Screensaver ON
+INFO:root:2020-09-15 02:20:31.140484 - Screensaver OFF by TIMEOUT, was on for 30.348072 seconds
+INFO:root:2020-09-15 02:21:32.957074 - Screensaver ON
+INFO:root:2020-09-15 02:22:03.300574 - Screensaver OFF by TIMEOUT, was on for 30.342934 seconds
+INFO:root:2020-09-15 02:23:05.123228 - Screensaver ON
+INFO:root:2020-09-15 02:23:35.574527 - Screensaver OFF by TIMEOUT, was on for 30.447287 seconds
+INFO:root:2020-09-15 02:24:37.391471 - Screensaver ON
+INFO:root:2020-09-15 02:25:07.736737 - Screensaver OFF by TIMEOUT, was on for 30.344508 seconds
+INFO:root:2020-09-15 02:26:09.564091 - Screensaver ON
+INFO:root:2020-09-15 02:26:39.910546 - Screensaver OFF by TIMEOUT, was on for 30.345421 seconds
+INFO:root:2020-09-15 02:27:41.725585 - Screensaver ON
+INFO:root:2020-09-15 02:28:12.069364 - Screensaver OFF by TIMEOUT, was on for 30.343192 seconds
+INFO:root:2020-09-15 02:29:13.891485 - Screensaver ON
+INFO:root:2020-09-15 02:29:44.241541 - Screensaver OFF by TIMEOUT, was on for 30.349475 seconds
+INFO:root:2020-09-15 02:30:46.058810 - Screensaver ON
+INFO:root:2020-09-15 02:31:16.509470 - Screensaver OFF by TIMEOUT, was on for 30.450057 seconds
+INFO:root:2020-09-15 02:32:18.325475 - Screensaver ON
+INFO:root:2020-09-15 02:32:48.673232 - Screensaver OFF by TIMEOUT, was on for 30.347134 seconds
+INFO:root:2020-09-15 02:33:50.494090 - Screensaver ON
+INFO:root:2020-09-15 02:34:20.947074 - Screensaver OFF by TIMEOUT, was on for 30.450708 seconds
+INFO:root:2020-09-15 02:35:22.777042 - Screensaver ON
+INFO:root:2020-09-15 02:35:53.222273 - Screensaver OFF by TIMEOUT, was on for 30.444601 seconds
+INFO:root:2020-09-15 02:36:55.024543 - Screensaver ON
+INFO:root:2020-09-15 02:37:25.374792 - Screensaver OFF by TIMEOUT, was on for 30.349401 seconds
+INFO:root:2020-09-15 02:38:27.195191 - Screensaver ON
+INFO:root:2020-09-15 02:38:57.641517 - Screensaver OFF by TIMEOUT, was on for 30.44552 seconds
+INFO:root:2020-09-15 02:39:59.428012 - Screensaver ON
+INFO:root:2020-09-15 02:40:29.777553 - Screensaver OFF by TIMEOUT, was on for 30.348878 seconds
+INFO:root:2020-09-15 02:41:31.594722 - Screensaver ON
+INFO:root:2020-09-15 02:42:02.045706 - Screensaver OFF by TIMEOUT, was on for 30.450307 seconds
+INFO:root:2020-09-15 02:43:03.861411 - Screensaver ON
+INFO:root:2020-09-15 02:43:34.317405 - Screensaver OFF by TIMEOUT, was on for 30.455397 seconds
+INFO:root:2020-09-15 02:44:36.111758 - Screensaver ON
+INFO:root:2020-09-15 02:45:06.461019 - Screensaver OFF by TIMEOUT, was on for 30.348636 seconds
+INFO:root:2020-09-15 02:46:08.278517 - Screensaver ON
+INFO:root:2020-09-15 02:46:38.631359 - Screensaver OFF by TIMEOUT, was on for 30.352254 seconds
+INFO:root:2020-09-15 02:47:40.445569 - Screensaver ON
+INFO:root:2020-09-15 02:48:10.789237 - Screensaver OFF by TIMEOUT, was on for 30.343058 seconds
+INFO:root:2020-09-15 02:49:12.613964 - Screensaver ON
+INFO:root:2020-09-15 02:49:42.977832 - Screensaver OFF by TIMEOUT, was on for 30.354584 seconds
+INFO:root:2020-09-15 02:50:44.812485 - Screensaver ON
+INFO:root:2020-09-15 02:51:15.160875 - Screensaver OFF by TIMEOUT, was on for 30.347783 seconds
+INFO:root:2020-09-15 02:52:16.979372 - Screensaver ON
+INFO:root:2020-09-15 02:52:47.324869 - Screensaver OFF by TIMEOUT, was on for 30.34491 seconds
+INFO:root:2020-09-15 02:53:49.147247 - Screensaver ON
+INFO:root:2020-09-15 02:54:19.497958 - Screensaver OFF by TIMEOUT, was on for 30.350019 seconds
+INFO:root:2020-09-15 02:55:21.314410 - Screensaver ON
+INFO:root:2020-09-15 02:55:51.665390 - Screensaver OFF by TIMEOUT, was on for 30.350407 seconds
+INFO:root:2020-09-15 02:56:53.481694 - Screensaver ON
+INFO:root:2020-09-15 02:57:23.933327 - Screensaver OFF by TIMEOUT, was on for 30.450359 seconds
+INFO:root:2020-09-15 02:58:25.749176 - Screensaver ON
+INFO:root:2020-09-15 02:58:56.093430 - Screensaver OFF by TIMEOUT, was on for 30.343486 seconds
+INFO:root:2020-09-15 02:59:57.899261 - Screensaver ON
+INFO:root:2020-09-15 03:00:28.346222 - Screensaver OFF by TIMEOUT, was on for 30.446045 seconds
+INFO:root:2020-09-15 03:01:30.165804 - Screensaver ON
+INFO:root:2020-09-15 03:02:00.613962 - Screensaver OFF by TIMEOUT, was on for 30.447486 seconds
+INFO:root:2020-09-15 03:03:02.433489 - Screensaver ON
+INFO:root:2020-09-15 03:03:32.785033 - Screensaver OFF by TIMEOUT, was on for 30.350779 seconds
+INFO:root:2020-09-15 03:04:34.598793 - Screensaver ON
+INFO:root:2020-09-15 03:05:04.954311 - Screensaver OFF by TIMEOUT, was on for 30.354924 seconds
+INFO:root:2020-09-15 03:06:06.765879 - Screensaver ON
+INFO:root:2020-09-15 03:06:37.211608 - Screensaver OFF by TIMEOUT, was on for 30.445106 seconds
+INFO:root:2020-09-15 03:07:39.000537 - Screensaver ON
+INFO:root:2020-09-15 03:08:09.345598 - Screensaver OFF by TIMEOUT, was on for 30.344482 seconds
+INFO:root:2020-09-15 03:09:11.168245 - Screensaver ON
+INFO:root:2020-09-15 03:09:41.521829 - Screensaver OFF by TIMEOUT, was on for 30.352804 seconds
+INFO:root:2020-09-15 03:10:43.318350 - Screensaver ON
+INFO:root:2020-09-15 03:11:13.668558 - Screensaver OFF by TIMEOUT, was on for 30.349596 seconds
+INFO:root:2020-09-15 03:12:15.485034 - Screensaver ON
+INFO:root:2020-09-15 03:12:45.933207 - Screensaver OFF by TIMEOUT, was on for 30.447563 seconds
+INFO:root:2020-09-15 03:13:47.717952 - Screensaver ON
+INFO:root:2020-09-15 03:14:18.063833 - Screensaver OFF by TIMEOUT, was on for 30.34524 seconds
+INFO:root:2020-09-15 03:15:19.883835 - Screensaver ON
+INFO:root:2020-09-15 03:15:50.232839 - Screensaver OFF by TIMEOUT, was on for 30.348369 seconds
+INFO:root:2020-09-15 03:16:52.066023 - Screensaver ON
+INFO:root:2020-09-15 03:17:22.419233 - Screensaver OFF by TIMEOUT, was on for 30.352385 seconds
+INFO:root:2020-09-15 03:18:24.253054 - Screensaver ON
+INFO:root:2020-09-15 03:18:54.718212 - Screensaver OFF by TIMEOUT, was on for 30.45488 seconds
+INFO:root:2020-09-15 03:19:56.535071 - Screensaver ON
+INFO:root:2020-09-15 03:20:26.986200 - Screensaver OFF by TIMEOUT, was on for 30.450458 seconds
+INFO:root:2020-09-15 03:21:28.802823 - Screensaver ON
+INFO:root:2020-09-15 03:21:59.154189 - Screensaver OFF by TIMEOUT, was on for 30.350771 seconds
+INFO:root:2020-09-15 03:23:00.986931 - Screensaver ON
+INFO:root:2020-09-15 03:23:31.338852 - Screensaver OFF by TIMEOUT, was on for 30.351345 seconds
+INFO:root:2020-09-15 03:24:33.153742 - Screensaver ON
+INFO:root:2020-09-15 03:25:03.497022 - Screensaver OFF by TIMEOUT, was on for 30.342499 seconds
+INFO:root:2020-09-15 03:26:05.319651 - Screensaver ON
+INFO:root:2020-09-15 03:26:35.670081 - Screensaver OFF by TIMEOUT, was on for 30.349801 seconds
+INFO:root:2020-09-15 03:27:37.472182 - Screensaver ON
+INFO:root:2020-09-15 03:28:07.821537 - Screensaver OFF by TIMEOUT, was on for 30.34859 seconds
+INFO:root:2020-09-15 03:29:09.637626 - Screensaver ON
+INFO:root:2020-09-15 03:29:40.085795 - Screensaver OFF by TIMEOUT, was on for 30.447564 seconds
+INFO:root:2020-09-15 03:30:41.903666 - Screensaver ON
+INFO:root:2020-09-15 03:31:12.253192 - Screensaver OFF by TIMEOUT, was on for 30.348924 seconds
+INFO:root:2020-09-15 03:32:14.070925 - Screensaver ON
+INFO:root:2020-09-15 03:32:44.425122 - Screensaver OFF by TIMEOUT, was on for 30.353622 seconds
+INFO:root:2020-09-15 03:33:46.239532 - Screensaver ON
+INFO:root:2020-09-15 03:34:16.690052 - Screensaver OFF by TIMEOUT, was on for 30.449889 seconds
+INFO:root:2020-09-15 03:35:18.488874 - Screensaver ON
+INFO:root:2020-09-15 03:35:48.933987 - Screensaver OFF by TIMEOUT, was on for 30.444472 seconds
+INFO:root:2020-09-15 03:36:50.758767 - Screensaver ON
+INFO:root:2020-09-15 03:37:21.205783 - Screensaver OFF by TIMEOUT, was on for 30.446436 seconds
+INFO:root:2020-09-15 03:38:23.039440 - Screensaver ON
+INFO:root:2020-09-15 03:38:53.485702 - Screensaver OFF by TIMEOUT, was on for 30.445664 seconds
+INFO:root:2020-09-15 03:39:55.290391 - Screensaver ON
+INFO:root:2020-09-15 03:40:25.637180 - Screensaver OFF by TIMEOUT, was on for 30.346037 seconds
+INFO:root:2020-09-15 03:41:27.456909 - Screensaver ON
+INFO:root:2020-09-15 03:41:57.805422 - Screensaver OFF by TIMEOUT, was on for 30.347872 seconds
+INFO:root:2020-09-15 03:42:59.622730 - Screensaver ON
+INFO:root:2020-09-15 03:43:30.074028 - Screensaver OFF by TIMEOUT, was on for 30.450633 seconds
+INFO:root:2020-09-15 03:44:31.874586 - Screensaver ON
+INFO:root:2020-09-15 03:45:02.221315 - Screensaver OFF by TIMEOUT, was on for 30.34589 seconds
+INFO:root:2020-09-15 03:46:04.040424 - Screensaver ON
+INFO:root:2020-09-15 03:46:34.390019 - Screensaver OFF by TIMEOUT, was on for 30.348919 seconds
+INFO:root:2020-09-15 03:47:36.206421 - Screensaver ON
+INFO:root:2020-09-15 03:48:06.657989 - Screensaver OFF by TIMEOUT, was on for 30.45097 seconds
+INFO:root:2020-09-15 03:49:08.438969 - Screensaver ON
+INFO:root:2020-09-15 03:49:38.785620 - Screensaver OFF by TIMEOUT, was on for 30.345891 seconds
+INFO:root:2020-09-15 03:50:40.607295 - Screensaver ON
+INFO:root:2020-09-15 03:51:10.965680 - Screensaver OFF by TIMEOUT, was on for 30.350436 seconds
+INFO:root:2020-09-15 03:52:12.775119 - Screensaver ON
+INFO:root:2020-09-15 03:52:43.221739 - Screensaver OFF by TIMEOUT, was on for 30.445839 seconds
+INFO:root:2020-09-15 03:53:45.050823 - Screensaver ON
+INFO:root:2020-09-15 03:54:15.397482 - Screensaver OFF by TIMEOUT, was on for 30.346076 seconds
+INFO:root:2020-09-15 03:55:17.208311 - Screensaver ON
+INFO:root:2020-09-15 03:55:47.553348 - Screensaver OFF by TIMEOUT, was on for 30.344453 seconds
+INFO:root:2020-09-15 03:56:49.375003 - Screensaver ON
+INFO:root:2020-09-15 03:57:19.725644 - Screensaver OFF by TIMEOUT, was on for 30.350053 seconds
+INFO:root:2020-09-15 03:58:21.543078 - Screensaver ON
+INFO:root:2020-09-15 03:58:51.993974 - Screensaver OFF by TIMEOUT, was on for 30.450026 seconds
+INFO:root:2020-09-15 03:59:53.776799 - Screensaver ON
+INFO:root:2020-09-15 04:00:24.229133 - Screensaver OFF by TIMEOUT, was on for 30.451546 seconds
+INFO:root:2020-09-15 04:01:26.059306 - Screensaver ON
+INFO:root:2020-09-15 04:01:56.409330 - Screensaver OFF by TIMEOUT, was on for 30.349403 seconds
+INFO:root:2020-09-15 04:02:58.226013 - Screensaver ON
+INFO:root:2020-09-15 04:03:28.573636 - Screensaver OFF by TIMEOUT, was on for 30.347021 seconds
+INFO:root:2020-09-15 04:04:30.392752 - Screensaver ON
+INFO:root:2020-09-15 04:05:00.839646 - Screensaver OFF by TIMEOUT, was on for 30.446261 seconds
+INFO:root:2020-09-15 04:06:03.659705 - Screensaver ON
+INFO:root:2020-09-15 04:06:34.116383 - Screensaver OFF by TIMEOUT, was on for 30.455843 seconds
+INFO:root:2020-09-15 04:07:35.910079 - Screensaver ON
+INFO:root:2020-09-15 04:08:06.258032 - Screensaver OFF by TIMEOUT, was on for 30.347296 seconds
+INFO:root:2020-09-15 04:09:08.076099 - Screensaver ON
+INFO:root:2020-09-15 04:09:38.425145 - Screensaver OFF by TIMEOUT, was on for 30.34848 seconds
+INFO:root:2020-09-15 04:10:40.243480 - Screensaver ON
+INFO:root:2020-09-15 04:11:10.588982 - Screensaver OFF by TIMEOUT, was on for 30.344871 seconds
+INFO:root:2020-09-15 04:12:12.412193 - Screensaver ON
+INFO:root:2020-09-15 04:12:42.858332 - Screensaver OFF by TIMEOUT, was on for 30.445361 seconds
+INFO:root:2020-09-15 04:13:44.695361 - Screensaver ON
+INFO:root:2020-09-15 04:14:15.040975 - Screensaver OFF by TIMEOUT, was on for 30.345037 seconds
+INFO:root:2020-09-15 04:15:16.862492 - Screensaver ON
+INFO:root:2020-09-15 04:15:47.214156 - Screensaver OFF by TIMEOUT, was on for 30.350853 seconds
+INFO:root:2020-09-15 04:16:49.029333 - Screensaver ON
+INFO:root:2020-09-15 04:17:19.494809 - Screensaver OFF by TIMEOUT, was on for 30.455512 seconds
+INFO:root:2020-09-15 04:18:21.311691 - Screensaver ON
+INFO:root:2020-09-15 04:18:51.658719 - Screensaver OFF by TIMEOUT, was on for 30.346348 seconds
+INFO:root:2020-09-15 04:19:53.478941 - Screensaver ON
+INFO:root:2020-09-15 04:20:23.939585 - Screensaver OFF by TIMEOUT, was on for 30.459986 seconds
+INFO:root:2020-09-15 04:21:25.762856 - Screensaver ON
+INFO:root:2020-09-15 04:21:56.209604 - Screensaver OFF by TIMEOUT, was on for 30.446132 seconds
+INFO:root:2020-09-15 04:22:57.997773 - Screensaver ON
+INFO:root:2020-09-15 04:23:28.352997 - Screensaver OFF by TIMEOUT, was on for 30.354008 seconds
+INFO:root:2020-09-15 04:24:30.180260 - Screensaver ON
+INFO:root:2020-09-15 04:25:00.632460 - Screensaver OFF by TIMEOUT, was on for 30.451573 seconds
+INFO:root:2020-09-15 04:26:02.465677 - Screensaver ON
+INFO:root:2020-09-15 04:26:32.910341 - Screensaver OFF by TIMEOUT, was on for 30.444039 seconds
+INFO:root:2020-09-15 04:27:34.714892 - Screensaver ON
+INFO:root:2020-09-15 04:28:05.165232 - Screensaver OFF by TIMEOUT, was on for 30.449942 seconds
+INFO:root:2020-09-15 04:29:06.998610 - Screensaver ON
+INFO:root:2020-09-15 04:29:37.350061 - Screensaver OFF by TIMEOUT, was on for 30.349927 seconds
+INFO:root:2020-09-15 04:30:39.167430 - Screensaver ON
+INFO:root:2020-09-15 04:31:09.618346 - Screensaver OFF by TIMEOUT, was on for 30.450156 seconds
+INFO:root:2020-09-15 04:32:11.433258 - Screensaver ON
+INFO:root:2020-09-15 04:32:41.789165 - Screensaver OFF by TIMEOUT, was on for 30.355225 seconds
+INFO:root:2020-09-15 04:33:43.600344 - Screensaver ON
+INFO:root:2020-09-15 04:34:13.945163 - Screensaver OFF by TIMEOUT, was on for 30.344149 seconds
+INFO:root:2020-09-15 04:35:15.768660 - Screensaver ON
+INFO:root:2020-09-15 04:35:46.221674 - Screensaver OFF by TIMEOUT, was on for 30.452252 seconds
+INFO:root:2020-09-15 04:36:48.019539 - Screensaver ON
+INFO:root:2020-09-15 04:37:18.365902 - Screensaver OFF by TIMEOUT, was on for 30.345538 seconds
+INFO:root:2020-09-15 04:38:20.185905 - Screensaver ON
+INFO:root:2020-09-15 04:38:50.632941 - Screensaver OFF by TIMEOUT, was on for 30.446228 seconds
+INFO:root:2020-09-15 04:39:52.468928 - Screensaver ON
+INFO:root:2020-09-15 04:40:22.914082 - Screensaver OFF by TIMEOUT, was on for 30.444504 seconds
+INFO:root:2020-09-15 04:41:24.735647 - Screensaver ON
+INFO:root:2020-09-15 04:41:55.185945 - Screensaver OFF by TIMEOUT, was on for 30.449737 seconds
+INFO:root:2020-09-15 04:42:56.986045 - Screensaver ON
+INFO:root:2020-09-15 04:43:27.334157 - Screensaver OFF by TIMEOUT, was on for 30.347495 seconds
+INFO:root:2020-09-15 04:44:29.153754 - Screensaver ON
+INFO:root:2020-09-15 04:44:59.510534 - Screensaver OFF by TIMEOUT, was on for 30.350142 seconds
+INFO:root:2020-09-15 04:46:01.338074 - Screensaver ON
+INFO:root:2020-09-15 04:46:31.689336 - Screensaver OFF by TIMEOUT, was on for 30.350634 seconds
+INFO:root:2020-09-15 04:47:33.503025 - Screensaver ON
+INFO:root:2020-09-15 04:48:03.949271 - Screensaver OFF by TIMEOUT, was on for 30.445614 seconds
+INFO:root:2020-09-15 04:49:05.772297 - Screensaver ON
+INFO:root:2020-09-15 04:49:36.117436 - Screensaver OFF by TIMEOUT, was on for 30.344364 seconds
+INFO:root:2020-09-15 04:50:37.936571 - Screensaver ON
+INFO:root:2020-09-15 04:51:08.282417 - Screensaver OFF by TIMEOUT, was on for 30.345208 seconds
+INFO:root:2020-09-15 04:52:10.106018 - Screensaver ON
+INFO:root:2020-09-15 04:52:40.457120 - Screensaver OFF by TIMEOUT, was on for 30.346809 seconds
+INFO:root:2020-09-15 04:53:42.273201 - Screensaver ON
+INFO:root:2020-09-15 04:54:12.621146 - Screensaver OFF by TIMEOUT, was on for 30.347216 seconds
+INFO:root:2020-09-15 04:55:14.440728 - Screensaver ON
+INFO:root:2020-09-15 04:55:44.787036 - Screensaver OFF by TIMEOUT, was on for 30.345488 seconds
+INFO:root:2020-09-15 04:56:46.606635 - Screensaver ON
+INFO:root:2020-09-15 04:57:16.953475 - Screensaver OFF by TIMEOUT, was on for 30.346071 seconds
+INFO:root:2020-09-15 04:58:18.772682 - Screensaver ON
+INFO:root:2020-09-15 04:58:49.117448 - Screensaver OFF by TIMEOUT, was on for 30.34412 seconds
+INFO:root:2020-09-15 04:59:50.947029 - Screensaver ON
+INFO:root:2020-09-15 05:00:21.293921 - Screensaver OFF by TIMEOUT, was on for 30.346301 seconds
+INFO:root:2020-09-15 05:01:23.106661 - Screensaver ON
+INFO:root:2020-09-15 05:01:53.557637 - Screensaver OFF by TIMEOUT, was on for 30.450391 seconds
+INFO:root:2020-09-15 05:02:55.390793 - Screensaver ON
+INFO:root:2020-09-15 05:03:25.837896 - Screensaver OFF by TIMEOUT, was on for 30.446474 seconds
+INFO:root:2020-09-15 05:04:27.657706 - Screensaver ON
+INFO:root:2020-09-15 05:04:58.015481 - Screensaver OFF by TIMEOUT, was on for 30.357161 seconds
+INFO:root:2020-09-15 05:05:59.825368 - Screensaver ON
+INFO:root:2020-09-15 05:06:30.169680 - Screensaver OFF by TIMEOUT, was on for 30.343453 seconds
+INFO:root:2020-09-15 05:07:31.991825 - Screensaver ON
+INFO:root:2020-09-15 05:08:02.345812 - Screensaver OFF by TIMEOUT, was on for 30.35322 seconds
+INFO:root:2020-09-15 05:09:04.160252 - Screensaver ON
+INFO:root:2020-09-15 05:09:34.505430 - Screensaver OFF by TIMEOUT, was on for 30.344404 seconds
+INFO:root:2020-09-15 05:10:36.324590 - Screensaver ON
+INFO:root:2020-09-15 05:11:06.773720 - Screensaver OFF by TIMEOUT, was on for 30.448513 seconds
+INFO:root:2020-09-15 05:12:08.559230 - Screensaver ON
+INFO:root:2020-09-15 05:12:38.910115 - Screensaver OFF by TIMEOUT, was on for 30.350209 seconds
+INFO:root:2020-09-15 05:13:40.726275 - Screensaver ON
+INFO:root:2020-09-15 05:14:11.077859 - Screensaver OFF by TIMEOUT, was on for 30.343979 seconds
+INFO:root:2020-09-15 05:15:12.893673 - Screensaver ON
+INFO:root:2020-09-15 05:15:43.339668 - Screensaver OFF by TIMEOUT, was on for 30.445319 seconds
+INFO:root:2020-09-15 05:16:45.159962 - Screensaver ON
+INFO:root:2020-09-15 05:17:15.505131 - Screensaver OFF by TIMEOUT, was on for 30.344592 seconds
+INFO:root:2020-09-15 05:18:17.326768 - Screensaver ON
+INFO:root:2020-09-15 05:18:47.677636 - Screensaver OFF by TIMEOUT, was on for 30.350255 seconds
+INFO:root:2020-09-15 05:19:49.494388 - Screensaver ON
+INFO:root:2020-09-15 05:20:19.846027 - Screensaver OFF by TIMEOUT, was on for 30.351011 seconds
+INFO:root:2020-09-15 05:21:21.662347 - Screensaver ON
+INFO:root:2020-09-15 05:21:52.026642 - Screensaver OFF by TIMEOUT, was on for 30.358732 seconds
+INFO:root:2020-09-15 05:22:53.850873 - Screensaver ON
+INFO:root:2020-09-15 05:23:24.207190 - Screensaver OFF by TIMEOUT, was on for 30.355764 seconds
+INFO:root:2020-09-15 05:24:26.029463 - Screensaver ON
+INFO:root:2020-09-15 05:24:56.383119 - Screensaver OFF by TIMEOUT, was on for 30.347883 seconds
+INFO:root:2020-09-15 05:25:58.196401 - Screensaver ON
+INFO:root:2020-09-15 05:26:28.646366 - Screensaver OFF by TIMEOUT, was on for 30.447646 seconds
+INFO:root:2020-09-15 05:27:31.479104 - Screensaver ON
+INFO:root:2020-09-15 05:28:01.938044 - Screensaver OFF by TIMEOUT, was on for 30.458086 seconds
+INFO:root:2020-09-15 05:29:03.729886 - Screensaver ON
+INFO:root:2020-09-15 05:29:34.177551 - Screensaver OFF by TIMEOUT, was on for 30.44705 seconds
+INFO:root:2020-09-15 05:30:36.028659 - Screensaver ON
+INFO:root:2020-09-15 05:31:06.373058 - Screensaver OFF by TIMEOUT, was on for 30.343032 seconds
+INFO:root:2020-09-15 05:32:08.212887 - Screensaver ON
+INFO:root:2020-09-15 05:32:38.561462 - Screensaver OFF by TIMEOUT, was on for 30.347229 seconds
+INFO:root:2020-09-15 05:33:40.381054 - Screensaver ON
+INFO:root:2020-09-15 05:34:10.829759 - Screensaver OFF by TIMEOUT, was on for 30.448071 seconds
+INFO:root:2020-09-15 05:35:12.649324 - Screensaver ON
+INFO:root:2020-09-15 05:35:42.997919 - Screensaver OFF by TIMEOUT, was on for 30.347824 seconds
+INFO:root:2020-09-15 05:36:44.814130 - Screensaver ON
+INFO:root:2020-09-15 05:37:15.157399 - Screensaver OFF by TIMEOUT, was on for 30.342695 seconds
+INFO:root:2020-09-15 05:38:16.981804 - Screensaver ON
+INFO:root:2020-09-15 05:38:47.428937 - Screensaver OFF by TIMEOUT, was on for 30.446497 seconds
+INFO:root:2020-09-15 05:39:49.248892 - Screensaver ON
+INFO:root:2020-09-15 05:40:19.698469 - Screensaver OFF by TIMEOUT, was on for 30.448925 seconds
+INFO:root:2020-09-15 05:41:21.514848 - Screensaver ON
+INFO:root:2020-09-15 05:41:51.865733 - Screensaver OFF by TIMEOUT, was on for 30.350222 seconds
+INFO:root:2020-09-15 05:42:53.682858 - Screensaver ON
+INFO:root:2020-09-15 05:43:24.045578 - Screensaver OFF by TIMEOUT, was on for 30.350226 seconds
+INFO:root:2020-09-15 05:44:25.866737 - Screensaver ON
+INFO:root:2020-09-15 05:44:56.217268 - Screensaver OFF by TIMEOUT, was on for 30.349778 seconds
+INFO:root:2020-09-15 05:45:58.033828 - Screensaver ON
+INFO:root:2020-09-15 05:46:28.378155 - Screensaver OFF by TIMEOUT, was on for 30.343461 seconds
+INFO:root:2020-09-15 05:47:30.201382 - Screensaver ON
+INFO:root:2020-09-15 05:48:00.646135 - Screensaver OFF by TIMEOUT, was on for 30.444094 seconds
+INFO:root:2020-09-15 05:49:02.468745 - Screensaver ON
+INFO:root:2020-09-15 05:49:32.820982 - Screensaver OFF by TIMEOUT, was on for 30.348003 seconds
+INFO:root:2020-09-15 05:50:34.634341 - Screensaver ON
+INFO:root:2020-09-15 05:51:05.081424 - Screensaver OFF by TIMEOUT, was on for 30.446485 seconds
+INFO:root:2020-09-15 05:52:06.867440 - Screensaver ON
+INFO:root:2020-09-15 05:52:37.213054 - Screensaver OFF by TIMEOUT, was on for 30.345046 seconds
+INFO:root:2020-09-15 05:53:39.035352 - Screensaver ON
+INFO:root:2020-09-15 05:54:09.386262 - Screensaver OFF by TIMEOUT, was on for 30.350333 seconds
+INFO:root:2020-09-15 05:55:11.185681 - Screensaver ON
+INFO:root:2020-09-15 05:55:41.630074 - Screensaver OFF by TIMEOUT, was on for 30.443806 seconds
+INFO:root:2020-09-15 05:56:43.419375 - Screensaver ON
+INFO:root:2020-09-15 05:57:13.866100 - Screensaver OFF by TIMEOUT, was on for 30.446173 seconds
+INFO:root:2020-09-15 05:58:15.703522 - Screensaver ON
+INFO:root:2020-09-15 05:58:46.150091 - Screensaver OFF by TIMEOUT, was on for 30.445854 seconds
+INFO:root:2020-09-15 05:59:47.969361 - Screensaver ON
+INFO:root:2020-09-15 06:00:18.414311 - Screensaver OFF by TIMEOUT, was on for 30.444237 seconds
+INFO:root:2020-09-15 06:01:20.236605 - Screensaver ON
+INFO:root:2020-09-15 06:01:50.598649 - Screensaver OFF by TIMEOUT, was on for 30.351363 seconds
+INFO:root:2020-09-15 06:02:52.400368 - Screensaver ON
+INFO:root:2020-09-15 06:03:22.844829 - Screensaver OFF by TIMEOUT, was on for 30.443811 seconds
+INFO:root:2020-09-15 06:04:24.653466 - Screensaver ON
+INFO:root:2020-09-15 06:04:55.000623 - Screensaver OFF by TIMEOUT, was on for 30.346401 seconds
+INFO:root:2020-09-15 06:05:56.821045 - Screensaver ON
+INFO:root:2020-09-15 06:06:27.276040 - Screensaver OFF by TIMEOUT, was on for 30.452617 seconds
+INFO:root:2020-09-15 06:07:29.087529 - Screensaver ON
+INFO:root:2020-09-15 06:07:59.533113 - Screensaver OFF by TIMEOUT, was on for 30.443618 seconds
+INFO:root:2020-09-15 06:09:01.370684 - Screensaver ON
+INFO:root:2020-09-15 06:09:31.817374 - Screensaver OFF by TIMEOUT, was on for 30.446131 seconds
+INFO:root:2020-09-15 06:10:33.636516 - Screensaver ON
+INFO:root:2020-09-15 06:11:03.984773 - Screensaver OFF by TIMEOUT, was on for 30.347683 seconds
+INFO:root:2020-09-15 06:12:05.802937 - Screensaver ON
+INFO:root:2020-09-15 06:12:36.254007 - Screensaver OFF by TIMEOUT, was on for 30.450493 seconds
+INFO:root:2020-09-15 06:13:38.071322 - Screensaver ON
+INFO:root:2020-09-15 06:14:08.417522 - Screensaver OFF by TIMEOUT, was on for 30.345403 seconds
+INFO:root:2020-09-15 06:15:10.237671 - Screensaver ON
+INFO:root:2020-09-15 06:15:40.581309 - Screensaver OFF by TIMEOUT, was on for 30.343051 seconds
+INFO:root:2020-09-15 06:16:42.402992 - Screensaver ON
+INFO:root:2020-09-15 06:17:12.753544 - Screensaver OFF by TIMEOUT, was on for 30.349931 seconds
+INFO:root:2020-09-15 06:18:14.570950 - Screensaver ON
+INFO:root:2020-09-15 06:18:45.017287 - Screensaver OFF by TIMEOUT, was on for 30.445709 seconds
+INFO:root:2020-09-15 06:19:46.803477 - Screensaver ON
+INFO:root:2020-09-15 06:20:17.155074 - Screensaver OFF by TIMEOUT, was on for 30.350848 seconds
+INFO:root:2020-09-15 06:21:18.969460 - Screensaver ON
+INFO:root:2020-09-15 06:21:49.317304 - Screensaver OFF by TIMEOUT, was on for 30.347276 seconds
+INFO:root:2020-09-15 06:22:51.138203 - Screensaver ON
+INFO:root:2020-09-15 06:23:21.485018 - Screensaver OFF by TIMEOUT, was on for 30.34623 seconds
+INFO:root:2020-09-15 06:24:23.304610 - Screensaver ON
+INFO:root:2020-09-15 06:24:53.749480 - Screensaver OFF by TIMEOUT, was on for 30.444176 seconds
+INFO:root:2020-09-15 06:25:55.572854 - Screensaver ON
+INFO:root:2020-09-15 06:26:25.925592 - Screensaver OFF by TIMEOUT, was on for 30.352121 seconds
+INFO:root:2020-09-15 06:27:28.767713 - Screensaver ON
+INFO:root:2020-09-15 06:27:59.126295 - Screensaver OFF by TIMEOUT, was on for 30.358015 seconds
+INFO:root:2020-09-15 06:29:00.957246 - Screensaver ON
+INFO:root:2020-09-15 06:29:31.301930 - Screensaver OFF by TIMEOUT, was on for 30.343789 seconds
+INFO:root:2020-09-15 06:30:33.122522 - Screensaver ON
+INFO:root:2020-09-15 06:31:03.477943 - Screensaver OFF by TIMEOUT, was on for 30.354824 seconds
+INFO:root:2020-09-15 06:32:05.306168 - Screensaver ON
+INFO:root:2020-09-15 06:32:35.662042 - Screensaver OFF by TIMEOUT, was on for 30.354875 seconds
+INFO:root:2020-09-15 06:33:37.490346 - Screensaver ON
+INFO:root:2020-09-15 06:34:07.841393 - Screensaver OFF by TIMEOUT, was on for 30.350338 seconds
+INFO:root:2020-09-15 06:35:09.657881 - Screensaver ON
+INFO:root:2020-09-15 06:35:40.002152 - Screensaver OFF by TIMEOUT, was on for 30.34357 seconds
+INFO:root:2020-09-15 06:36:41.824528 - Screensaver ON
+INFO:root:2020-09-15 06:37:12.173554 - Screensaver OFF by TIMEOUT, was on for 30.348413 seconds
+INFO:root:2020-09-15 06:38:13.993392 - Screensaver ON
+INFO:root:2020-09-15 06:38:44.337101 - Screensaver OFF by TIMEOUT, was on for 30.34292 seconds
+INFO:root:2020-09-15 06:39:46.160227 - Screensaver ON
+INFO:root:2020-09-15 06:40:16.522955 - Screensaver OFF by TIMEOUT, was on for 30.361949 seconds
+INFO:root:2020-09-15 06:41:18.311195 - Screensaver ON
+INFO:root:2020-09-15 06:41:48.665919 - Screensaver OFF by TIMEOUT, was on for 30.350633 seconds
+INFO:root:2020-09-15 06:43:40.510036 - Screensaver ON
+INFO:root:2020-09-15 06:44:10.857933 - Screensaver OFF by TIMEOUT, was on for 30.347185 seconds
+INFO:root:2020-09-15 06:45:12.696861 - Screensaver ON
+INFO:root:2020-09-15 06:45:43.049193 - Screensaver OFF by TIMEOUT, was on for 30.351533 seconds
+INFO:root:2020-09-15 06:46:44.846188 - Screensaver ON
+INFO:root:2020-09-15 06:47:15.193288 - Screensaver OFF by TIMEOUT, was on for 30.346357 seconds
+INFO:root:2020-09-15 06:48:18.004439 - Screensaver ON
+INFO:root:2020-09-15 06:48:48.363948 - Screensaver OFF by TIMEOUT, was on for 30.358678 seconds
+INFO:root:2020-09-15 06:49:50.195731 - Screensaver ON
+INFO:root:2020-09-15 06:50:20.468683 - Screensaver OFF by TIMEOUT, was on for 30.272237 seconds
+INFO:root:2020-09-15 06:51:22.381845 - Screensaver ON
+INFO:root:2020-09-15 06:51:40.596582 - Screensaver OFF by FACE, was on for 18.213788 seconds
+INFO:root:2020-09-15 06:52:42.514063 - Screensaver ON
+INFO:root:2020-09-15 06:53:12.743956 - Screensaver OFF by TIMEOUT, was on for 30.229343 seconds
+INFO:root:2020-09-15 06:54:14.680270 - Screensaver ON
+INFO:root:2020-09-15 06:54:44.944435 - Screensaver OFF by TIMEOUT, was on for 30.263441 seconds
+INFO:root:2020-09-15 06:55:46.832334 - Screensaver ON
+INFO:root:2020-09-15 06:55:58.505737 - Screensaver OFF by FACE, was on for 11.672674 seconds
+INFO:root:2020-09-15 06:57:00.449421 - Screensaver ON
+INFO:root:2020-09-15 06:57:12.239961 - Screensaver OFF by FACE, was on for 11.789781 seconds
