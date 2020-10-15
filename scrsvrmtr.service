@@ -4,7 +4,10 @@ After=multi-user.target
 
 [Service]
 Type=simple
+User=toni
 ExecStart=/home/toni/Projects/bosch-screensaver/venv/bin/python /home/toni/Projects/bosch-screensaver/screensaver.py
+Restart=on-failure
+RestartSec=3
 
 [Install]
 WantedBy=multi-user.target
